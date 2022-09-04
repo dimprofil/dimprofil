@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="4">
+  <HTTPTask id="1828" hostname="localhost:1080" path="/cgi-bin/reservations.pl" url="http://localhost:1080/cgi-bin/reservations.pl" ip="127.0.0.1" port="1080" connectionId="73" origin="Primary" frame="1" startDateTime="2022-08-30T19:10:29.432+03:00" startTime="22746953" endTime="22747000">
+    <HTTPRequest method="POST">
+      <HTTPHeaders>
+        <HTTPHeaderEntity name="Host" index="0">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>bG9jYWxob3N0OjEwODA=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="User-Agent" index="1">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTA0LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTA0LjA=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Accept" index="2">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>dGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2UvYXZpZixpbWFnZS93ZWJwLCovKjtxPTAuOA==</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Accept-Language" index="3">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>cnUtUlUscnU7cT0wLjgsZW4tVVM7cT0wLjUsZW47cT0wLjM=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Accept-Encoding" index="4">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>Z3ppcCwgZGVmbGF0ZSwgYnI=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Content-Type" index="5">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>YXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVk</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Content-Length" index="6">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>MjQw</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Origin" index="7">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>aHR0cDovL2xvY2FsaG9zdDoxMDgw</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="DNT" index="8">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>MQ==</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Connection" index="9">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>a2VlcC1hbGl2ZQ==</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Referer" index="10">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>aHR0cDovL2xvY2FsaG9zdDoxMDgwL2NnaS1iaW4vcmVzZXJ2YXRpb25zLnBsP3BhZ2U9d2VsY29tZQ==</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Cookie" index="11">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>TVNPPVNJRCYxNjYxODc0NTUzOyBNVFVzZXJJbmZvPWZpcnN0TmFtZSZKb2pvJmFkZHJlc3MyJiZ1c2VybmFtZSZqb2pvJmhhc2gmNDcmbGFzdE5hbWUmQmVhbiUwQSZhZGRyZXNzMSYmY3JlZGl0Q2FyZCYmZXhwRGF0ZSYlMEE=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Upgrade-Insecure-Requests" index="12">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>MQ==</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Sec-Fetch-Dest" index="13">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>ZnJhbWU=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Sec-Fetch-Mode" index="14">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>bmF2aWdhdGU=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Sec-Fetch-Site" index="15">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>c2FtZS1vcmlnaW4=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Sec-Fetch-User" index="16">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>PzE=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPAllHeaders>
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>UE9TVCAvY2dpLWJpbi9yZXNlcnZhdGlvbnMucGwgSFRUUC8xLjENCkhvc3Q6IGxvY2FsaG9zdDoxMDgwDQpVc2VyLUFnZW50OiBNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMDQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMDQuMA0KQWNjZXB0OiB0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS9hdmlmLGltYWdlL3dlYnAsKi8qO3E9MC44DQpBY2NlcHQtTGFuZ3VhZ2U6IHJ1LVJVLHJ1O3E9MC44LGVuLVVTO3E9MC41LGVuO3E9MC4zDQpBY2NlcHQtRW5jb2Rpbmc6IGd6aXAsIGRlZmxhdGUsIGJyDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZA0KQ29udGVudC1MZW5ndGg6IDI0MA0KT3JpZ2luOiBodHRwOi8vbG9jYWxob3N0OjEwODANCkROVDogMQ0KQ29ubmVjdGlvbjoga2VlcC1hbGl2ZQ0KUmVmZXJlcjogaHR0cDovL2xvY2FsaG9zdDoxMDgwL2NnaS1iaW4vcmVzZXJ2YXRpb25zLnBsP3BhZ2U9d2VsY29tZQ0KQ29va2llOiBNU089U0lEJjE2NjE4NzQ1NTM7IE1UVXNlckluZm89Zmlyc3ROYW1lJkpvam8mYWRkcmVzczImJnVzZXJuYW1lJmpvam8maGFzaCY0NyZsYXN0TmFtZSZCZWFuJTBBJmFkZHJlc3MxJiZjcmVkaXRDYXJkJiZleHBEYXRlJiUwQQ0KVXBncmFkZS1JbnNlY3VyZS1SZXF1ZXN0czogMQ0KU2VjLUZldGNoLURlc3Q6IGZyYW1lDQpTZWMtRmV0Y2gtTW9kZTogbmF2aWdhdGUNClNlYy1GZXRjaC1TaXRlOiBzYW1lLW9yaWdpbg0KU2VjLUZldGNoLVVzZXI6ID8xDQoNCg==</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPAllHeaders>
+        <HTTPCookies>
+          <HTTPHeaderEntity name="MSO" index="0">
+            <HTTPDataSet>
+              <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+                <ActualData>U0lEJjE2NjE4NzQ1NTM=</ActualData>
+              </HTTPData>
+            </HTTPDataSet>
+            <IsExternalData>false</IsExternalData>
+          </HTTPHeaderEntity>
+          <HTTPHeaderEntity name="MTUserInfo" index="1">
+            <HTTPDataSet>
+              <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+                <ActualData>Zmlyc3ROYW1lJkpvam8mYWRkcmVzczImJnVzZXJuYW1lJmpvam8maGFzaCY0NyZsYXN0TmFtZSZCZWFuJTBBJmFkZHJlc3MxJiZjcmVkaXRDYXJkJiZleHBEYXRlJiUwQQ==</ActualData>
+              </HTTPData>
+            </HTTPDataSet>
+            <IsExternalData>false</IsExternalData>
+          </HTTPHeaderEntity>
+        </HTTPCookies>
+      </HTTPHeaders>
+      <HTTPBody>
+        <HTTPDataSet>
+          <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+            <ActualData>YWR2YW5jZURpc2NvdW50PTAmZGVwYXJ0PURlbnZlciZkZXBhcnREYXRlPTA4JTJGMzElMkYyMDIyJmFycml2ZT1Qb3J0bGFuZCZyZXR1cm5EYXRlPTA5JTJGMDElMkYyMDIyJm51bVBhc3NlbmdlcnM9MSZzZWF0UHJlZj1XaW5kb3cmc2VhdFR5cGU9Q29hY2gmZmluZEZsaWdodHMueD01NCZmaW5kRmxpZ2h0cy55PTcmLmNnaWZpZWxkcz1yb3VuZHRyaXAmLmNnaWZpZWxkcz1zZWF0VHlwZSYuY2dpZmllbGRzPXNlYXRQcmVm</ActualData>
+          </HTTPData>
+        </HTTPDataSet>
+        <IsExternalData>false</IsExternalData>
+      </HTTPBody>
+    </HTTPRequest>
+    <HTTPResponse>
+      <contentLenght>0</contentLenght>
+      <HTTPHeaders>
+        <HTTPHeaderEntity name="Date" index="0">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>VHVlLCAzMCBBdWcgMjAyMiAxNTo1ODoxMiBHTVQ=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Server" index="1">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>QXBhY2hlLzIuMi4yMSAoV2luMzIp</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Expires" index="2">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>TW9uLCAyOSBBdWcgMjAyMiAxNTo1ODoxMiBHTVQ=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Keep-Alive" index="3">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>dGltZW91dD01LCBtYXg9MTAw</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Connection" index="4">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>S2VlcC1BbGl2ZQ==</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Transfer-Encoding" index="5">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>Y2h1bmtlZA==</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPHeaderEntity name="Content-Type" index="6">
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>dGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5LTE=</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPHeaderEntity>
+        <HTTPAllHeaders>
+          <HTTPDataSet>
+            <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+              <ActualData>SFRUUC8xLjEgMjAwIE9LDQpEYXRlOiBUdWUsIDMwIEF1ZyAyMDIyIDE1OjU4OjEyIEdNVA0KU2VydmVyOiBBcGFjaGUvMi4yLjIxIChXaW4zMikNCkV4cGlyZXM6IE1vbiwgMjkgQXVnIDIwMjIgMTU6NTg6MTIgR01UDQpLZWVwLUFsaXZlOiB0aW1lb3V0PTUsIG1heD0xMDANCkNvbm5lY3Rpb246IEtlZXAtQWxpdmUNClRyYW5zZmVyLUVuY29kaW5nOiBjaHVua2VkDQpDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD1JU08tODg1OS0xDQoNCg==</ActualData>
+            </HTTPData>
+          </HTTPDataSet>
+          <IsExternalData>false</IsExternalData>
+        </HTTPAllHeaders>
+      </HTTPHeaders>
+      <HTTPBody>
+        <HTTPDataSet>
+          <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+            <ActualData>PCFET0NUWVBFIGh0bWwKCVBVQkxJQyAiLS8vVzNDLy9EVEQgWEhUTUwgMS4wIFRyYW5zaXRpb25hbC8vRU4iCgkgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPgo8aHRtbCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94aHRtbCIgbGFuZz0iZW4tVVMiIHhtbDpsYW5nPSJlbi1VUyI+CjxoZWFkPgo8dGl0bGU+RmxpZ2h0IFNlbGVjdGlvbnM8L3RpdGxlPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0xIiAvPgo8L2hlYWQ+Cjxib2R5IGJnY29sb3I9IiNFMEU3RjEiPgo8c3R5bGU+YmxvY2txdW90ZSB7Zm9udC1mYW1pbHk6IHRhaG9tYTsgZm9udC1zaXplIDogMTBwdH1IMSB7Zm9udC1mYW1pbHk6IHRhaG9tYTsgZm9udC1zaXplIDogMjJwdDsgY29sb3I6ICM5OTMzMzN9c21hbGwge2ZvbnQtZmFtaWx5OiB0YWhvbWE7IGZvbnQtc2l6ZSA6IDhwdH1IMyB7Zm9udC1mYW1pbHk6IHRhaG9tYTsgZm9udC1zaXplIDogMTBwdDsgY29sb3I6IGJsYWNrfVREIHtmb250LWZhbWlseTogdGFob21hOyBmb250LXNpemUgOiAxMHB0OyBjb2xvcjogYmxhY2t9PC9zdHlsZT48QlIvPjxCUi8+PGgxPjxmb250IGNvbG9yPSIjMDAzMzY2Ij4mbmJzcDsmbmJzcDs8Yj5GaW5kIEZsaWdodDwvZm9udD48L2I+PC9oMT48YmxvY2txdW90ZT4KPGZvcm0gbWV0aG9kPSJwb3N0IiBhY3Rpb249InJlc2VydmF0aW9ucy5wbCIgZW5jdHlwZT0iYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIj4KCjxjZW50ZXI+CjwhLS0gRnJvbSBEZW52ZXIgKDApIFRvIFBvcnRsYW5kICg1KSAtLT4KPHRhYmxlIGNlbGxzcGFjaW5nPSIyIiBib3JkZXI9IjAiIHdpZHRoPSI1MCUiPgo8YmxvY2txdW90ZT5GbGlnaHQgZGVwYXJ0aW5nIGZyb20gPEI+RGVudmVyPC9CPiB0byA8Qj5Qb3J0bGFuZDwvQj4gb24gPEI+MDgvMzEvMjAyMjwvQj48QlIvPjxCUi8+PHRyIGJnY29sb3I9IiM1RTc4ODQiPjx0ZCBhbGlnbj0iY2VudGVyIj48Zm9udCBjb2xvcj0id2hpdGUiPjxCPkZsaWdodDwvQj48L2ZvbnQ+CiAgICAgIAkJPHRkIGFsaWduPSJjZW50ZXIiPjxmb250IGNvbG9yPSJ3aGl0ZSI+PEI+RGVwYXJ0dXJlIHRpbWU8L0I+CiAgICAgIAkJPHRkIGFsaWduPSJjZW50ZXIiPjxmb250IGNvbG9yPSJ3aGl0ZSI+PEI+Q29zdDwvQj4KPHRyIGJnY29sb3I9IiNFRkYyRjciPjx0ZCBhbGlnbj0iY2VudGVyIj48aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9Im91dGJvdW5kRmxpZ2h0IiB2YWx1ZT0iMDUwOzI3NTswOC8zMS8yMDIyIiBjaGVja2VkPSJjaGVja2VkIiA+Qmx1ZSBTa3kgQWlyIDA1MDx0ZCBhbGlnbj0iY2VudGVyIj44YW08dGQgYWxpZ249ImNlbnRlciI+JCAyNzU8L1REPjwvVFI+PHRyIGJnY29sb3I9IiNFRkYyRjciPjx0ZCBhbGlnbj0iY2VudGVyIj48aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9Im91dGJvdW5kRmxpZ2h0IiB2YWx1ZT0iMDUxOzI0NTswOC8zMS8yMDIyIj5CbHVlIFNreSBBaXIgMDUxPHRkIGFsaWduPSJjZW50ZXIiPjFwbTx0ZCBhbGlnbj0iY2VudGVyIj4kIDI0NTwvVEQ+PC9UUj48dHIgYmdjb2xvcj0iI0VGRjJGNyI+PHRkIGFsaWduPSJjZW50ZXIiPjxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0ib3V0Ym91bmRGbGlnaHQiIHZhbHVlPSIwNTI7MjYwOzA4LzMxLzIwMjIiPkJsdWUgU2t5IEFpciAwNTI8dGQgYWxpZ249ImNlbnRlciI+NXBtPHRkIGFsaWduPSJjZW50ZXIiPiQgMjYwPC9URD48L1RSPjx0ciBiZ2NvbG9yPSIjRUZGMkY3Ij48dGQgYWxpZ249ImNlbnRlciI+PGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJvdXRib3VuZEZsaWdodCIgdmFsdWU9IjA1MzsyMjU7MDgvMzEvMjAyMiI+Qmx1ZSBTa3kgQWlyIDA1Mzx0ZCBhbGlnbj0iY2VudGVyIj4xMXBtPHRkIGFsaWduPSJjZW50ZXIiPiQgMjI1PC9URD48L1RSPjwvdGFibGU+Cgo8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJudW1QYXNzZW5nZXJzIiB2YWx1ZT0iMSIgIC8+PGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iYWR2YW5jZURpc2NvdW50IiB2YWx1ZT0iMCIgIC8+PGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ic2VhdFR5cGUiIHZhbHVlPSJDb2FjaCIgIC8+PGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ic2VhdFByZWYiIHZhbHVlPSJXaW5kb3ciICAvPgo8UD48Y2VudGVyPjx0YWJsZSB3aWR0aD04MCUgY2VsbHNwYWNpbmc9MT48dHI+PHRkIGFsaWduPWNlbnRlcj4KPGlucHV0IHR5cGU9ImltYWdlIiBuYW1lPSJyZXNlcnZlRmxpZ2h0cyIgc3JjPSIvV2ViVG91cnMvaW1hZ2VzL2J1dHRvbl9uZXh0LmdpZiIgYm9yZGVyPSIwIiAvPgo8dGQ+Jm5ic3A7PHRkIGFsaWduPWNlbnRlcj48L3RhYmxlPjwvY2VudGVyPjwvZm9ybT48L2NlbnRlcj4KPC9ibG9ja3F1b3RlPgoKPC9ib2R5Pgo8L2h0bWw+</ActualData>
+          </HTTPData>
+        </HTTPDataSet>
+        <IsExternalData>false</IsExternalData>
+      </HTTPBody>
+      <TcpPackets>
+        <PacketInfo time="22747000" offset="0" length="2705" />
+        <PacketInfo time="22747000" offset="2705" length="5" />
+      </TcpPackets>
+    </HTTPResponse>
+  </HTTPTask>
+</HTTPSnapshot>

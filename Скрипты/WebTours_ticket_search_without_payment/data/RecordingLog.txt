@@ -1,0 +1,2203 @@
+[API Trapper      (37b0: c3c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      ( 4c8:1724)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer ( 4c8:3530)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 4c8:3530)] Load Network Traffic Analyzers:
+[Network Analyzer ( 4c8:3530)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 4c8:3530)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 4c8:3530)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 4c8:3530)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 4c8:3530)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 4c8:3530)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 4c8:3530)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 4c8: dc8)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[API Trapper      (1640:2d3c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer ( 4c8:3530)] Establish Listener @ 127.0.0.1:1722
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1722   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 10 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  4) Client -> Server @ : 483 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  4) Server -> Client : 506 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      ( 4c8: dc8)] "GET /canonical.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  4) Client -> Server @ : 484 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  4) Server -> Client : 663 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3d8c)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:130c)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3ce0)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:4180)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      ( 4c8: dc8)] "GET /WebTours/header.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Client -> Server @ : 521 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  4) Client -> Server @ : 532 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:4354)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /success.txt?ipv4"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:3d8c)] SSLAccept(ssl_id = 2149345637536 = 000001F46EFBB4A0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:3d8c)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:130c)] SSLAccept(ssl_id = 2149345475040 = 000001F46EF939E0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:130c)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      ( 4c8: dc8)] "GET /favicon.ico"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Client -> Server @ : 421 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: 420)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  4) Server -> Client : 1025 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Client -> Server @ : 448 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 13) Client -> Server @ : 449 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid: 13) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 15)  PROXIED!
+[Net An. Error    ( 4c8:3ce0)] SSLAccept(ssl_id = 2149346170784 = 000001F46F03D7A0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Net An. Error    ( 4c8:3ce0)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 16)  PROXIED!
+[Net An. Error    ( 4c8:4180)] SSLAccept(ssl_id = 2149346050096 = 000001F46F020030) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4180)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      ( 4c8: dc8)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Client -> Server @ : 573 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/home.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 14) Client -> Server @ : 569 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 14) Server -> Client : 1660 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: 420)] SSLAccept(ssl_id = 2149346645248 = 000001F46F0B1500) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: 420)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4354)] SSLAccept(ssl_id = 2149346512336 = 000001F46F090DD0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4354)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Server -> Client : 1748 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8:225c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:42c4)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( 4c8:1990)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:225c)] SSLAccept(ssl_id = 2149346926016 = 000001F46F0F5DC0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:225c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 4c8:38ec)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    ( 4c8:42c4)] SSLAccept(ssl_id = 2149346702000 = 000001F46F0BF2B0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Net An. Error    ( 4c8:42c4)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3170)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: 6f4)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 13) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 13) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:38ec)] SSLAccept(ssl_id = 2149346708160 = 000001F46F0C0AC0) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:38ec)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8:1990)] SSLAccept(ssl_id = 2149346689680 = 000001F46F0BC290) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1990)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8: 6f4)] SSLAccept(ssl_id = 2149346738960 = 000001F46F0C8310) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 17) Connection Terminated (by Client)
+[Net An. Error    ( 4c8: 6f4)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8:3170)] SSLAccept(ssl_id = 2149346695840 = 000001F46F0BDAA0) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 18) Connection Terminated (by Client)
+[Net An. Error    ( 4c8:3170)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:17e0)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer ( 4c8:3ff4)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:17e0)] SSLAccept(ssl_id = 2149346689680 = 000001F46F0BC290) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:17e0)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:3ff4)] SSLAccept(ssl_id = 2149346720480 = 000001F46F0C3AE0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Net An. Error    ( 4c8:3ff4)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8:1cac)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:2b88)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:2b88)] SSLAccept(ssl_id = 2149346323696 = 000001F46F062CF0) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 4c8:2b88)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:11dc)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Net An. Error    ( 4c8:11dc)] SSLAccept(ssl_id = 2149346323696 = 000001F46F062CF0) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 4c8:11dc)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:37d8)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1cac)] SSLAccept(ssl_id = 2149346738960 = 000001F46F0C8310) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1cac)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:1d00)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8:29bc)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    ( 4c8:37d8)] SSLAccept(ssl_id = 2149346348336 = 000001F46F068D30) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:37d8)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:1d00)] SSLAccept(ssl_id = 2149346354496 = 000001F46F06A540) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1d00)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:2914)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:2d38)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:29bc)] SSLAccept(ssl_id = 2149346311376 = 000001F46F05FCD0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:29bc)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:2914)] SSLAccept(ssl_id = 2149346360656 = 000001F46F06BD50) Failed, ctx = 000001F4756F3A40, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:2914)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:1c98)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:4288)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: cb0)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    ( 4c8:2d38)] SSLAccept(ssl_id = 2149346342176 = 000001F46F067520) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:2d38)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1c98)] SSLAccept(ssl_id = 2149453886096 = 000001F4756F7290) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:1c98)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4288)] SSLAccept(ssl_id = 2149453879936 = 000001F4756F5A80) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Net An. Error    ( 4c8:4288)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:19e0)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 142.251.1.95:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: b5c)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: 46c)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 40)  PROXIED!
+[Net An. Error    ( 4c8: cb0)] SSLAccept(ssl_id = 2149453892256 = 000001F4756F8AA0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: cb0)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:19e0)] SSLAccept(ssl_id = 2149453904576 = 000001F4756FBAC0) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:19e0)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:370c)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:317c)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3514)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: 564)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:22d4)]   (Sid: 41) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 42)  PROXIED!
+[Net An. Error    ( 4c8:317c)] SSLAccept(ssl_id = 2149453990816 = 000001F475710BA0) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 4c8:370c)] SSLAccept(ssl_id = 2149453972336 = 000001F47570C370) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 4c8: b5c)] SSLAccept(ssl_id = 2149453916896 = 000001F4756FEAE0) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 4c8: 564)] SSLAccept(ssl_id = 2149453978496 = 000001F47570DB80) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 4c8:317c)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8:370c)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8: b5c)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8: 564)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: 7cc)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 52.89.136.7:443   (Service=)  (Sid= 43)  PROXIED!
+[Net An. Error    ( 4c8: 7cc)] SSLAccept(ssl_id = 2149453916896 = 000001F4756FEAE0) Failed, ctx = 000001F46EFB0570, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 4c8: 7cc)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 13.33.243.126:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 13.33.243.126:443   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: 46c)] SSLAccept(ssl_id = 2149453898416 = 000001F4756FA2B0) Failed, ctx = 000001F4756F3A40, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: 46c)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 13.33.243.126:443   (Service=)  (Sid= 46)  PROXIED!
+[Net An. Error    ( 4c8:3514)] SSLAccept(ssl_id = 2149453984656 = 000001F47570F390) Failed, ctx = 000001F4756F4610, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    ( 4c8:3514)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 13.33.243.126:443   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /canonical.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:22d4)] SSLAccept(ssl_id = 2149453886096 = 000001F4756F7290) Failed, ctx = 000001F4756F4A00, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:22d4)]   (Sid: 41) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:2148)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: a38)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4c8:276c)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:2df8)]   (Sid: 46) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4c8:1bcc)]   (Sid: 48) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: 3ac)]   (Sid: 47) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /success.txt?ipv4"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: b78)]   (Sid: 49) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:276c)] SSLAccept(ssl_id = 2149453947696 = 000001F475706330) Failed, ctx = 000001F46F03AC60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    ( 4c8: 3ac)] SSLAccept(ssl_id = 2149454003136 = 000001F475713BC0) Failed, ctx = 000001F46F03AC60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    ( 4c8:2148)] SSLAccept(ssl_id = 2149453953856 = 000001F475707B40) Failed, ctx = 000001F46F03A870, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:276c)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8: 3ac)]   (Sid: 47) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8:2148)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8: a38)] SSLAccept(ssl_id = 2149453990816 = 000001F475710BA0) Failed, ctx = 000001F46F03AC60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    ( 4c8:2df8)] SSLAccept(ssl_id = 2149453996976 = 000001F4757123B0) Failed, ctx = 000001F46F03AC60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: a38)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8:2df8)]   (Sid: 46) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:1bcc)] SSLAccept(ssl_id = 2149453978496 = 000001F47570DB80) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    ( 4c8: b78)] SSLAccept(ssl_id = 2149453879936 = 000001F4756F5A80) Failed, ctx = 000001F4756F4A00, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1bcc)]   (Sid: 48) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 4c8: b78)]   (Sid: 49) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /canonical.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 46) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 47) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 49) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 48) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:2a84)]   (Sid: 50) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 51)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /success.txt?ipv4"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:28e4)]   (Sid: 51) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8:3a50)]   (Sid: 52) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 53)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:28e4)]   (Sid: 51) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 54)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:1d88)]   (Sid: 53) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:1d88)]   (Sid: 53) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:2a84)] SSLAccept(ssl_id = 2149346906336 = 000001F46F0F10E0) Failed, ctx = 000001F4756F4A00, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:2a84)]   (Sid: 50) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:11f4)]   (Sid: 55) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:3a50)] SSLAccept(ssl_id = 2149346924816 = 000001F46F0F5910) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:3a50)]   (Sid: 52) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /canonical.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:15cc)]   (Sid: 54) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:11f4)]   (Sid: 55) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 56)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:15cc)]   (Sid: 54) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 57)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /success.txt?ipv4"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:18f0)]   (Sid: 56) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( 4c8: dc8)] "GET /canonical.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:22f0)]   (Sid: 57) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:18f0)] SSLAccept(ssl_id = 2149453929216 = 000001F475701B00) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    ( 4c8:18f0)]   (Sid: 56) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    ( 4c8:22f0)] SSLAccept(ssl_id = 2149453916896 = 000001F4756FEAE0) Failed, ctx = 000001F4756F4A00, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:22f0)]   (Sid: 57) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /success.txt?ipv4"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /canonical.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /success.txt?ipv4"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 50) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 51) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 53) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 52) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 55) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 54) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 56) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 58)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid: 57) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: 700)]   (Sid: 58) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: 700)] SSLAccept(ssl_id = 2149346723696 = 000001F46F0C4770) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: 700)]   (Sid: 58) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 59)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: 294)]   (Sid: 59) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: 294)] SSLAccept(ssl_id = 2149346717536 = 000001F46F0C2F60) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: 294)]   (Sid: 59) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 58) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 59) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 60)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3c94)]   (Sid: 60) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:3c94)] SSLAccept(ssl_id = 2149346699056 = 000001F46F0BE730) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:3c94)]   (Sid: 60) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 60) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 52.89.136.7:443   (Service=)  (Sid= 61)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:4210)]   (Sid: 61) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4210)] SSLAccept(ssl_id = 2149346015952 = 000001F46F017AD0) Failed, ctx = 000001F46F03A870, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4210)]   (Sid: 61) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 61) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 62)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: c6c)]   (Sid: 62) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: c6c)] SSLAccept(ssl_id = 2149346028272 = 000001F46F01AAF0) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: c6c)]   (Sid: 62) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 62) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 63)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3204)]   (Sid: 63) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:3204)] SSLAccept(ssl_id = 2149346686736 = 000001F46F0BB710) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:3204)]   (Sid: 63) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid: 63) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 64)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:1d3c)]   (Sid: 64) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1d3c)] SSLAccept(ssl_id = 2149346692896 = 000001F46F0BCF20) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1d3c)]   (Sid: 64) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 64) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 52.89.136.7:443   (Service=)  (Sid= 65)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:4124)]   (Sid: 65) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4124)] SSLAccept(ssl_id = 2149346729856 = 000001F46F0C5F80) Failed, ctx = 000001F46F03A870, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4124)]   (Sid: 65) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 65) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent Login [Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 66)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3284)]   (Sid: 66) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:3284)] SSLAccept(ssl_id = 2149346686736 = 000001F46F0BB710) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:3284)]   (Sid: 66) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 66) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 67)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 67) Client -> Server @ : 799 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 67) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 67) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 67) Client -> Server @ : 678 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 68)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 68) Client -> Server @ : 673 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 68) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 68) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 67) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 67) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 67) Client -> Server @ : 598 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 68) Client -> Server @ : 600 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 68) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 69)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 69) Client -> Server @ : 598 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 67) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 69) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 68) Client -> Server @ : 598 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 68) Server -> Client : 1048 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 70)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 69) Connection Terminated (by Server)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 67) Connection Terminated (by Server)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 68) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent Login [Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 70) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 71)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:29fc)]   (Sid: 71) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:29fc)] SSLAccept(ssl_id = 2149346908480 = 000001F46F0F1940) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:29fc)]   (Sid: 71) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 72)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: bf4)]   (Sid: 72) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: bf4)] SSLAccept(ssl_id = 2149346920800 = 000001F46F0F4960) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: bf4)]   (Sid: 72) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 71) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 72) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 52.42.74.230:443   (Service=)  (Sid= 73)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:1514)]   (Sid: 73) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1514)] SSLAccept(ssl_id = 2149346926960 = 000001F46F0F6170) Failed, ctx = 000001F46F03A870, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:1514)]   (Sid: 73) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /canonical.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /success.txt?ipv4"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 73) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 74)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: e88)]   (Sid: 74) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 75)  PROXIED!
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 76)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: e88)]   (Sid: 74) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:1e54)]   (Sid: 76) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 77)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:1e54)]   (Sid: 76) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:1338)]   (Sid: 75) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /canonical.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:1338)]   (Sid: 75) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:38a0)]   (Sid: 77) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:38a0)]   (Sid: 77) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /success.txt?ipv4"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /canonical.html"   
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /success.txt?ipv4"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 12) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 74) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 76) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 75) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 77) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent ticket_search_without_payment [Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 78)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 78) Client -> Server @ : 712 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 78) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 78) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 78) Client -> Server @ : 695 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 79)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 79) Client -> Server @ : 696 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 79) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 78) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 79) Server -> Client : 286 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 78) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 79) Client -> Server @ : 606 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 78) Client -> Server @ : 604 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 80)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "GET /WebTours/images/home.gif"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 80) Client -> Server @ : 598 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 78) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 79) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 80) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 81)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:4030)]   (Sid: 81) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4030)] SSLAccept(ssl_id = 2149346908480 = 000001F46F0F1940) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:4030)]   (Sid: 81) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 81) Connection Terminated (by Client)
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 104.16.248.249:443   (Service=)  (Sid= 82)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:27b8)]   (Sid: 82) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:27b8)] SSLAccept(ssl_id = 2149346883840 = 000001F46F0EB900) Failed, ctx = 000001F46EFB0570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8:27b8)]   (Sid: 82) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 82) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 79) Connection Terminated (by Server)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 78) Connection Terminated (by Server)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 80) Connection Terminated (by Server)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 52.42.74.230:443   (Service=)  (Sid= 83)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: f44)]   (Sid: 83) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: f44)] SSLAccept(ssl_id = 2149346692896 = 000001F46F0BCF20) Failed, ctx = 000001F46F03A870, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( 4c8: f44)]   (Sid: 83) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 83) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8:3530)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer ( 4c8:3530)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 84)  PROXIED!
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 4c8: dc8)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 4c8: dc8)]   (Sid: 84) Client -> Server @ : 1052 bytes (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 84) Server -> Client : 2704 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid: 84) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid: 84) Connection Terminated (by Client)
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 4c8: dc8)]   (Sid:  2) Client -> Server @ : 1 bytes 

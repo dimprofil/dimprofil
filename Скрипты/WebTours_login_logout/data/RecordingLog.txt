@@ -1,0 +1,48 @@
+[Network Analyzer (3454:36c0)]   (Sid: 72) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (3454:36c0)] SSLAccept(ssl_id = 2739469451760 = 0000027DD51A81F0) Failed, ctx = 0000027DE2C0B490, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (3454:36c0)]   (Sid: 72) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:3c28)] Address lookup for DESKTOP-N5GCPJ6 = 192.168.1.102
+[Network Analyzer (3454:3c28)] Request Connection: Remote Server @ 104.16.249.249:443   (Service=)  (Sid= 73)  PROXIED!
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454: 6f8)]   (Sid: 73) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (3454: 6f8)] SSLAccept(ssl_id = 2739469470240 = 0000027DD51ACA20) Failed, ctx = 0000027DE2C0B490, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    (3454: 6f8)]   (Sid: 73) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (3454:42b8)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (3454:42b8)]   (Sid: 72) Connection Terminated (by Client)
+[Network Analyzer (3454:42b8)]   (Sid: 73) Connection Terminated (by Client)

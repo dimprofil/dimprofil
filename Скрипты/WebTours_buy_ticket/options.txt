@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\DIMA\Documents\SharpDevelop Projects\WebTours_buy_ticket
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\dima\documents\sharpdevelop projects\webtours_buy_ticket\\logfile.log
+c:\users\dima\documents\sharpdevelop projects\webtours_buy_ticket\\combined_WebTours_buy_ticket.c
+c:\users\dima\documents\sharpdevelop projects\webtours_buy_ticket\\pre_cci.c
