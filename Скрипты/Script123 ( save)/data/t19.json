@@ -1,1 +1,0 @@
-{"config":{"id":840341,"result_url":"http:\/\/icosrate.ru\/get\/?r=extensions.bot.result"},"updater":{"urls":["http:\/\/icosrate.ru\/get\/?r=extensions.bot.getTasks"],"interval":42000,"check_update":5000,"min_ticks":5000,"fails_max_count":100,"fails_interval_step":32000,"fails_total_interval":6000000,"reset_interval":10000}}
