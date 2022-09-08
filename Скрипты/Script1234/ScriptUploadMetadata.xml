@@ -16,6 +16,11 @@
     <FileEntry Name="Userinfo.dat" Filter="2" />
     <FileEntry Name="arrive.dat" Filter="2" />
     <FileEntry Name="depart.dat" Filter="2" />
+    <FileEntry Name="combined_Script1234.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="246240447440.idx" Filter="1" />
+    <FileEntry Name="263407295440.idx" Filter="1" />
+    <FileEntry Name="8846027440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -34,6 +39,8 @@
     <FileEntry Name="Password.dat" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="Script123 ( save).prm.bak" Filter="1" />
+    <FileEntry Name="Script1234.c.pickle" Filter="1" />
+    <FileEntry Name="Script1234.ci" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

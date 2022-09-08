@@ -14,6 +14,9 @@
     <FileEntry Name="WebTours_login_logout.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="Userinfo.dat" Filter="2" />
+    <FileEntry Name="combined_WebTours_login_logout.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="110580167440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -29,6 +32,8 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="WebTours_login_logout.c.pickle" Filter="1" />
+    <FileEntry Name="WebTours_login_logout.ci" Filter="1" />
     <FileEntry Name="WebTours_login_logout.prm.bak" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

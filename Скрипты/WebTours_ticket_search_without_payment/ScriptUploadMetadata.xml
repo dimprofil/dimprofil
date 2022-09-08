@@ -16,6 +16,11 @@
     <FileEntry Name="Userinfo.dat" Filter="2" />
     <FileEntry Name="arrive.dat" Filter="2" />
     <FileEntry Name="depart.dat" Filter="2" />
+    <FileEntry Name="combined_WebTours_ticket_search_without_payment.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="127514664440.idx" Filter="1" />
+    <FileEntry Name="58755759440.idx" Filter="1" />
+    <FileEntry Name="94232316440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -32,6 +37,8 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="WebTours_ticket_search_without_payment.c.pickle" Filter="1" />
+    <FileEntry Name="WebTours_ticket_search_without_payment.ci" Filter="1" />
     <FileEntry Name="WebTours_ticket_search_without_payment.prb" Filter="1" />
     <FileEntry Name="WebTours_ticket_search_without_payment.prm.bak" Filter="1" />
     <FileEntry Name="data\" Filter="1" />

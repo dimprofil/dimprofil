@@ -8,7 +8,8 @@ Pass1=t6
 PassCount=1
 Pass1=t2
 [t3]
-PassCount=1
+Pass2=t7
+PassCount=2
 Pass1=t3
 [t4]
 PassCount=1

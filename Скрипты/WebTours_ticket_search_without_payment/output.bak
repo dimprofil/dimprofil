@@ -1,9 +1,9 @@
-Virtual User Script started at: 04.09.2022 17:57:16
+Virtual User Script started at: 08.09.2022 13:09:07
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (янв 05 2021 19:27:22)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
 Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0  	[MsgId: MMSG-26988]
-Runtime Settings file: "C:\Users\DIMA\Documents\SharpDevelop Projects\WebTours_ticket_search_without_payment\\default.cfg"  	[MsgId: MMSG-27141]
+Runtime Settings file: "C:\Users\DIMA\Desktop\xset test\dimprofil\Скрипты\WebTours_ticket_search_without_payment\\default.cfg"  	[MsgId: MMSG-27141]
 Ending action vuser_init.
 Running Vuser...
 Starting iteration 1.
@@ -35,10 +35,10 @@ Action.c(38): Found resource "http://localhost:1080/WebTours/images/webtours.png
 Action.c(38): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
 Action.c(38): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
 Action.c(38): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
-Action.c(38): web_url("WebTours") was successful, 10317 body bytes, 2637 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(38): web_url("WebTours") was successful, 10319 body bytes, 2637 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
 Action.c(48): web_set_sockets_option started  	[MsgId: MMSG-26355]
 Action.c(48): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
-Action.c(50): Notify: Transaction "open_home_page" ended with a "Pass" status (Duration: 0.3584 Wasted Time: 0.0928).
+Action.c(50): Notify: Transaction "open_home_page" ended with a "Pass" status (Duration: 0.3444 Wasted Time: 0.0880).
 Action.c(55): Notify: Transaction "login" started.
 Action.c(57): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
 Action.c(57): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
@@ -62,8 +62,8 @@ Action.c(75): Found resource "http://localhost:1080/WebTours/images/itinerary.gi
 Action.c(75): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
 Action.c(75): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
 Action.c(75): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
-Action.c(75): web_submit_data("login.pl") was successful, 5782 body bytes, 2039 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(92): Notify: Transaction "login" ended with a "Pass" status (Duration: 0.2789 Wasted Time: 0.0064).
+Action.c(75): web_submit_data("login.pl") was successful, 5779 body bytes, 2030 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(92): Notify: Transaction "login" ended with a "Pass" status (Duration: 0.3031 Wasted Time: 0.0081).
 Action.c(94): Notify: Transaction "click_flights" started.
 Action.c(96): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
 Action.c(96): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
@@ -78,20 +78,19 @@ Action.c(104): Found resource "http://localhost:1080/WebTours/images/home.gif" i
 Action.c(104): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(104): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
 Action.c(104): web_url("Search Flights Button") was successful, 8516 body bytes, 1616 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(114): Notify: Transaction "click_flights" ended with a "Pass" status (Duration: 0.2028 Wasted Time: 0.0064).
+Action.c(114): Notify: Transaction "click_flights" ended with a "Pass" status (Duration: 0,2058 Wasted Time: 0,0060).
 Action.c(116): Notify: Transaction "search_flights" started.
 Action.c(118): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
 Action.c(118): web_add_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
 Action.c(123): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
-Action.c(123): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(123): web_submit_data("reservations.pl") was successful, 2442 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(147): Notify: Transaction "search_flights" ended with a "Pass" status (Duration: 0,1100 Wasted Time: 0,0050).
+Action.c(123): web_submit_data("reservations.pl") was successful, 717 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(147): Notify: Transaction "search_flights" ended with a "Pass" status (Duration: 0,1115 Wasted Time: 0,0053).
 Action.c(151): Notify: Transaction "choose_flight" started.
 Action.c(153): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
 Action.c(153): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(153): web_submit_data("reservations.pl_2") was successful, 2712 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(171): Notify: Transaction "choose_flight" ended with a "Pass" status (Duration: 0.0939 Wasted Time: 0.0046).
-Action.c(173): Notify: Transaction "UC_02_ticket_search_without_payment" ended with a "Pass" status (Duration: 1.1527 Wasted Time: 0.1151).
+Action.c(153): web_submit_data("reservations.pl_2") was successful, 2700 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(171): Notify: Transaction "choose_flight" ended with a "Pass" status (Duration: 0,0959 Wasted Time: 0,0060).
+Action.c(173): Notify: Transaction "UC_02_ticket_search_without_payment" ended with a "Pass" status (Duration: 1,1724 Wasted Time: 0,1134).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...

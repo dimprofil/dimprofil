@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\DIMA\Documents\SharpDevelop Projects\WebTours_viewing_tickets
+-IC:\Users\DIMA\Desktop\xset test\dimprofil\Скрипты\WebTours_viewing_tickets
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\dima\documents\sharpdevelop projects\webtours_viewing_tickets\\logfile.log
-c:\users\dima\documents\sharpdevelop projects\webtours_viewing_tickets\\combined_WebTours_viewing_tickets.c
-c:\users\dima\documents\sharpdevelop projects\webtours_viewing_tickets\\pre_cci.c
+-ec:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_viewing_tickets\\logfile.log
+c:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_viewing_tickets\\combined_WebTours_viewing_tickets.c
+c:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_viewing_tickets\\pre_cci.c

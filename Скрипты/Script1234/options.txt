@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\DIMA\Documents\SharpDevelop Projects\Script123 ( save)
+-IC:\Users\DIMA\Desktop\xset test\dimprofil\Скрипты\Script1234
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\dima\documents\sharpdevelop projects\script123 ( save)\\logfile.log
-c:\users\dima\documents\sharpdevelop projects\script123 ( save)\\combined_Script123 ( save).c
-c:\users\dima\documents\sharpdevelop projects\script123 ( save)\\pre_cci.c
+-ec:\users\dima\desktop\xset test\dimprofil\скрипты\script1234\\logfile.log
+c:\users\dima\desktop\xset test\dimprofil\скрипты\script1234\\combined_Script1234.c
+c:\users\dima\desktop\xset test\dimprofil\скрипты\script1234\\pre_cci.c

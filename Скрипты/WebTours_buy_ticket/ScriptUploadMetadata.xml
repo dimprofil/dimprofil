@@ -16,6 +16,11 @@
     <FileEntry Name="Userinfo.dat" Filter="2" />
     <FileEntry Name="arrive.dat" Filter="2" />
     <FileEntry Name="depart.dat" Filter="2" />
+    <FileEntry Name="combined_WebTours_buy_ticket.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="17659058440.idx" Filter="1" />
+    <FileEntry Name="178204236440.idx" Filter="1" />
+    <FileEntry Name="83168496440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -32,6 +37,8 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="WebTours_buy_ticket.c.pickle" Filter="1" />
+    <FileEntry Name="WebTours_buy_ticket.ci" Filter="1" />
     <FileEntry Name="WebTours_buy_ticket.prb" Filter="1" />
     <FileEntry Name="WebTours_buy_ticket.prm.bak" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

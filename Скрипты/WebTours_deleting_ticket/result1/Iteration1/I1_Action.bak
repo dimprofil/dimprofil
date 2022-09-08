@@ -7,3 +7,6 @@ Pass1=t3
 [t3]
 PassCount=1
 Pass1=t4
+[t4]
+PassCount=1
+Pass1=t5
