@@ -22,6 +22,22 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
+	
+	/*Correlation comment - Do not change!  Original value='134654.089104901zQczczQpHAiDDDDDtVffHpzVicf' Name ='userSession' Type ='ResponseBased'*/
+	web_reg_save_param_attrib(
+		"ParamName=userSession",
+		"TagName=input",
+		"Extract=value",
+		"Name=userSession",
+		"Type=hidden",
+		SEARCH_FILTERS,
+		"IgnoreRedirections=No",
+		"RequestUrl=*/nav.pl*",
+		LAST);
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Welcome to the Web Tours site",
+		LAST);
 
 	web_url("WebTours", 
 		"URL=http://localhost:1080/WebTours", 
@@ -56,7 +72,11 @@ Action()
 		"same-origin");
 
 	lr_think_time(20);
-
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=User password was correct",
+		LAST);
+	
 	web_submit_data("login.pl", 
 		"Action=http://localhost:1080/cgi-bin/login.pl", 
 		"Method=POST", 
@@ -85,6 +105,10 @@ Action()
 		"1");
 
 	lr_think_time(7);
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Welcome to the Web",
+		LAST);
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 

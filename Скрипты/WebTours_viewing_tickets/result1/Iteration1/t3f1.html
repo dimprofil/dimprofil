@@ -1,17 +1,15 @@
-<!-- 
- User wants the intineraries.  Since user has already logged on,
- we can give them the menu in the navbar.
- --->
+<!--
+User password was correct - added a cookie with the user's default
+information.  Set the user up to make reservations...
+
+--->
 
 <html>
 <title>Web Tours</title>
-   <!-- Frame Set -->
-   <frameset cols="160,*" border="1" frameborder="1">
-      <!-- Navigation Frame -->
-      <frame src="nav.pl?page=menu&in=itinerary" name="navbar" 
-            marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
-      <!-- Itinerary Frame -->
-      <frame src="itinerary.pl" name="info" 
-            marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
-   </frameset>
+<frameset cols="160,*" border=1 frameborder=1>
+<frame src="nav.pl?page=menu&in=home" name="navbar" marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+<frame src="login.pl?intro=true" name="info" marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+</frameset>
+
+</body>
 </html>

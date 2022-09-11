@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\DIMA\Desktop\xset test\dimprofil\Скрипты\WebTours_ticket_search_without_payment
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_ticket_search_without_payment\\logfile.log
-c:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_ticket_search_without_payment\\combined_WebTours_ticket_search_without_payment.c
-c:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_ticket_search_without_payment\\pre_cci.c
+-IE:\Micro Focus\Profile\Documents\VuGen\dimprofil\dimprofil-main\Скрипты\WebTours_ticket_search_without_payment
+-IC:\Micro Focus\LoadRunner\include
+-ee:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_ticket_search_without_payment\\logfile.log
+e:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_ticket_search_without_payment\\combined_WebTours_ticket_search_without_payment.c
+e:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_ticket_search_without_payment\\pre_cci.c

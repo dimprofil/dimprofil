@@ -33,6 +33,10 @@ Action()
 		"IgnoreRedirections=No",
 		"RequestUrl=*/nav.pl*",
 		LAST);
+		
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Welcome to the Web Tours site",
+		LAST);
 
 	web_url("WebTours", 
 		"URL=http://localhost:1080/WebTours", 
@@ -66,6 +70,10 @@ Action()
 		"same-origin");
 
 	lr_think_time(24);
+	
+		
+	web_reg_find("Text/IC=User password was correct",
+		LAST);
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -96,6 +104,22 @@ Action()
 
 	lr_think_time(14);
 
+/*Correlation comment - Do not change!  Original value='753-795-JB' Name ='flightID' Type ='ResponseBased'*/
+	web_reg_save_param_attrib(
+		"ParamName=flightID",
+		"TagName=input",
+		"Extract=value",
+		"Name=flightID",
+		"Type=hidden",
+		SEARCH_FILTERS,
+		"IgnoreRedirections=No",
+		"RequestUrl=*/itinerary.pl*",
+		LAST);
+		
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Transaction Summary",
+		LAST);
+
 	web_url("Itinerary Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 
 		"TargetFrame=body", 
@@ -110,21 +134,25 @@ Action()
 		"http://localhost:1080");
 
 	lr_think_time(19);
+	
+	web_reg_find("Fail=Found",
+		"Text/IC={flightID}",
+		LAST);
 
-	web_submit_data("itinerary.pl", 
-		"Action=http://localhost:1080/cgi-bin/itinerary.pl", 
-		"Method=POST", 
-		"TargetFrame=", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/cgi-bin/itinerary.pl", 
-		"Snapshot=t4.inf", 
-		"Mode=HTML", 
-		ITEMDATA, 
-		"Name=1", "Value=on", ENDITEM, 
-		"Name=flightID", "Value=753-795-JB", ENDITEM, 
-		"Name=removeFlights.x", "Value=56", ENDITEM, 
-		"Name=removeFlights.y", "Value=7", ENDITEM, 
-		"Name=.cgifields", "Value=1", ENDITEM, 
+	web_submit_data("itinerary.pl",
+		"Action=http://localhost:1080/cgi-bin/itinerary.pl",
+		"Method=POST",
+		"TargetFrame=",
+		"RecContentType=text/html",
+		"Referer=http://localhost:1080/cgi-bin/itinerary.pl",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		ITEMDATA,
+		"Name=1", "Value=on", ENDITEM,
+		"Name=flightID", "Value={flightID}", ENDITEM,
+		"Name=removeFlights.x", "Value=56", ENDITEM,
+		"Name=removeFlights.y", "Value=7", ENDITEM,
+		"Name=.cgifields", "Value=1", ENDITEM,
 		LAST);
 
 	lr_end_transaction("deleting_a_ticket",LR_AUTO);
@@ -138,6 +166,10 @@ Action()
 		"1");
 
 	lr_think_time(7);
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Welcome to the Web",
+		LAST);
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 

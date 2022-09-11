@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\Micro Focus\Profile\Documents\VuGen\dimprofil\dimprofil-main\Скрипты\WebTours_reg_user
+-IC:\Micro Focus\LoadRunner\include
+-ee:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_reg_user\\logfile.log
+e:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_reg_user\\combined_WebTours_reg_user.c
+e:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_reg_user\\pre_cci.c

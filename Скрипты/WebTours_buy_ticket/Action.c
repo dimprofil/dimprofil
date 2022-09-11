@@ -34,6 +34,10 @@ Action()
 		"IgnoreRedirections=No",
 		"RequestUrl=*/nav.pl*",
 		LAST);
+		
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Welcome to the Web Tours site",
+		LAST);
 
 	web_url("WebTours", 
 		"URL=http://localhost:1080/WebTours", 
@@ -100,6 +104,13 @@ Action()
 		"1");
 
 	lr_think_time(35);
+	
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Departure City",
+		LAST);
+
+	
 
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
@@ -119,6 +130,18 @@ Action()
 		"http://localhost:1080");
 
 	lr_think_time(29);
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Flight departing",
+		LAST);
+
+	
+	
+	web_reg_save_param("outboundFlight",
+		"LB=outboundFlight\" value=\"",
+		"RB/IC=\"",
+		"NotFound=ERROR",
+		LAST);
 
 	web_submit_data("reservations.pl", 
 		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
@@ -149,6 +172,10 @@ Action()
 	lr_think_time(64);
 
 	lr_start_transaction("choose_flight");
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Credit Card",
+		LAST);
 
 	web_submit_data("reservations.pl_2", 
 		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
@@ -159,7 +186,7 @@ Action()
 		"Snapshot=t6.inf", 
 		"Mode=HTML", 
 		ITEMDATA, 
-		"Name=outboundFlight", "Value=053;225;08/31/2022", ENDITEM, 
+		"Name=outboundFlight", "Value={outboundFlight}", ENDITEM, 
 		"Name=numPassengers", "Value=1", ENDITEM, 
 		"Name=advanceDiscount", "Value=0", ENDITEM, 
 		"Name=seatType", "Value=Coach", ENDITEM, 
@@ -183,6 +210,12 @@ Action()
 
 	lr_think_time(46);
 
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Thank you for booking",
+		LAST);
+
+	
+
 	web_submit_data("reservations.pl_3", 
 		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
 		"Method=POST", 
@@ -192,18 +225,18 @@ Action()
 		"Snapshot=t7.inf", 
 		"Mode=HTML", 
 		ITEMDATA, 
-		"Name=firstName", "Value=Jojo", ENDITEM, 
-		"Name=lastName", "Value=Bean", ENDITEM, 
+		"Name=firstName", "Value={firstName}", ENDITEM, 
+		"Name=lastName", "Value={lastName}", ENDITEM, 
 		"Name=address1", "Value=UAR", ENDITEM, 
 		"Name=address2", "Value=Multiple", ENDITEM, 
-		"Name=pass1", "Value=Jojo Bean", ENDITEM, 
-		"Name=creditCard", "Value=1111111111111111", ENDITEM, 
+		"Name=pass1", "Value={firstName} {lastName}", ENDITEM, 
+		"Name=creditCard", "Value={creditCard}", ENDITEM, 
 		"Name=expDate", "Value=", ENDITEM, 
 		"Name=oldCCOption", "Value=", ENDITEM, 
 		"Name=numPassengers", "Value=1", ENDITEM, 
 		"Name=seatType", "Value=Coach", ENDITEM, 
 		"Name=seatPref", "Value=Window", ENDITEM, 
-		"Name=outboundFlight", "Value=053;225;08/31/2022", ENDITEM, 
+		"Name=outboundFlight", "Value={outboundFlight}", ENDITEM, 
 		"Name=advanceDiscount", "Value=0", ENDITEM, 
 		"Name=returnFlight", "Value=", ENDITEM, 
 		"Name=JSFormSubmit", "Value=off", ENDITEM, 

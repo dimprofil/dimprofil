@@ -34,6 +34,11 @@ Action()
 		"IgnoreRedirections=No",
 		"RequestUrl=*/nav.pl*",
 		LAST);
+		
+		
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Welcome to the Web Tours site",
+		LAST);
 
 	web_url("WebTours", 
 		"URL=http://localhost:1080/WebTours", 
@@ -102,6 +107,11 @@ Action()
 	lr_think_time(35);
 	
 	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Departure City",
+		LAST);
+	
+	
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
 		"TargetFrame=body", 
@@ -121,6 +131,18 @@ Action()
 
 	lr_think_time(29);
 	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Flight departing",
+		LAST);
+
+	
+	
+	web_reg_save_param("outboundFlight",
+		"LB=outboundFlight\" value=\"",
+		"RB/IC=\"",
+		"NotFound=ERROR",
+		LAST);
+		
 	
 	web_submit_data("reservations.pl", 
 		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
@@ -151,6 +173,12 @@ Action()
 	lr_think_time(64);
 
 	lr_start_transaction("choose_flight");
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Credit Card",
+		LAST);
+
+	
 
 	web_submit_data("reservations.pl_2", 
 		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
@@ -184,6 +212,12 @@ Action()
 		"http://localhost:1080");
 
 	lr_think_time(46);
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Thank you for booking",
+		LAST);
+
+	
 
 	web_submit_data("reservations.pl_3", 
 		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
@@ -225,6 +259,12 @@ Action()
 		"1");
 
 	lr_think_time(7);
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Transaction Summary",
+		LAST);
+
+	
 
 	web_url("Itinerary Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 
@@ -243,6 +283,12 @@ Action()
 	web_revert_auto_header("Sec-Fetch-User");
 
 	lr_think_time(40);
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Welcome to the Web",
+		LAST);
+
+	
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 

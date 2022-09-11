@@ -14,9 +14,20 @@
     <FileEntry Name="WebTours_login_logout.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="Userinfo.dat" Filter="2" />
+    <FileEntry Name="arrive.dat" Filter="2" />
+    <FileEntry Name="depart.dat" Filter="2" />
     <FileEntry Name="combined_WebTours_login_logout.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="110580167440.idx" Filter="1" />
+    <FileEntry Name="211809111440.idx" Filter="1" />
+    <FileEntry Name="47638756440.idx" Filter="1" />
+    <FileEntry Name="70063297440.idx" Filter="1" />
+    <FileEntry Name="7006329744_0J8.501.idx" Filter="1" />
+    <FileEntry Name="7006329744_4Nm.129.idx" Filter="1" />
+    <FileEntry Name="7006329744_5Sf.89.idx" Filter="1" />
+    <FileEntry Name="7006329744_CKR.437.idx" Filter="1" />
+    <FileEntry Name="7006329744_Cru.921.idx" Filter="1" />
+    <FileEntry Name="7006329744_djT.759.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -28,12 +39,14 @@
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="WebTours_login_logout.c.pickle" Filter="1" />
     <FileEntry Name="WebTours_login_logout.ci" Filter="1" />
+    <FileEntry Name="WebTours_login_logout.prb" Filter="1" />
     <FileEntry Name="WebTours_login_logout.prm.bak" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

@@ -19,7 +19,22 @@
     <FileEntry Name="combined_WebTours_ticket_search_without_payment.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="127514664440.idx" Filter="1" />
+    <FileEntry Name="240342399440.idx" Filter="1" />
+    <FileEntry Name="43072277440.idx" Filter="1" />
+    <FileEntry Name="4307227744_0JA.647.idx" Filter="1" />
+    <FileEntry Name="4307227744_EDn.501.idx" Filter="1" />
+    <FileEntry Name="4307227744_ep6.35.idx" Filter="1" />
+    <FileEntry Name="4307227744_fgz.141.idx" Filter="1" />
+    <FileEntry Name="4307227744_FJA.47.idx" Filter="1" />
+    <FileEntry Name="4307227744_fvq.313.idx" Filter="1" />
+    <FileEntry Name="4307227744_JWX.391.idx" Filter="1" />
+    <FileEntry Name="4307227744_q2f.893.idx" Filter="1" />
+    <FileEntry Name="4307227744_RXe.887.idx" Filter="1" />
+    <FileEntry Name="4307227744_T3Z.589.idx" Filter="1" />
+    <FileEntry Name="4307227744_uuU.859.idx" Filter="1" />
+    <FileEntry Name="4307227744_ydV.529.idx" Filter="1" />
     <FileEntry Name="58755759440.idx" Filter="1" />
+    <FileEntry Name="90198196440.idx" Filter="1" />
     <FileEntry Name="94232316440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -33,6 +48,7 @@
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

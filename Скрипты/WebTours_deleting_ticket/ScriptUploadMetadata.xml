@@ -14,9 +14,22 @@
     <FileEntry Name="WebTours_deleting_ticket.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="Userinfo.dat" Filter="2" />
+    <FileEntry Name="arrive.dat" Filter="2" />
+    <FileEntry Name="depart.dat" Filter="2" />
     <FileEntry Name="combined_WebTours_deleting_ticket.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="216302112440.idx" Filter="1" />
+    <FileEntry Name="21630211244_7l6.167.idx" Filter="1" />
+    <FileEntry Name="21630211244_8mB.117.idx" Filter="1" />
+    <FileEntry Name="21630211244_Aru.193.idx" Filter="1" />
+    <FileEntry Name="21630211244_J8Q.45.idx" Filter="1" />
+    <FileEntry Name="21630211244_jfC.425.idx" Filter="1" />
+    <FileEntry Name="21630211244_QEl.731.idx" Filter="1" />
+    <FileEntry Name="21630211244_uXz.551.idx" Filter="1" />
+    <FileEntry Name="21630211244_vV2.533.idx" Filter="1" />
     <FileEntry Name="268322575440.idx" Filter="1" />
+    <FileEntry Name="3121390440.idx" Filter="1" />
+    <FileEntry Name="50626224440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -29,12 +42,14 @@
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="WebTours_deleting_ticket.c.pickle" Filter="1" />
     <FileEntry Name="WebTours_deleting_ticket.ci" Filter="1" />
+    <FileEntry Name="WebTours_deleting_ticket.prb" Filter="1" />
     <FileEntry Name="WebTours_deleting_ticket.prm.bak" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

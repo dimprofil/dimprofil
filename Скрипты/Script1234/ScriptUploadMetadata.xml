@@ -18,8 +18,23 @@
     <FileEntry Name="depart.dat" Filter="2" />
     <FileEntry Name="combined_Script1234.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="147832960440.idx" Filter="1" />
+    <FileEntry Name="184518118440.idx" Filter="1" />
+    <FileEntry Name="18451811844_0JA.647.idx" Filter="1" />
+    <FileEntry Name="18451811844_3Ea.789.idx" Filter="1" />
+    <FileEntry Name="18451811844_cHx.969.idx" Filter="1" />
+    <FileEntry Name="18451811844_hQ2.691.idx" Filter="1" />
+    <FileEntry Name="18451811844_Htx.243.idx" Filter="1" />
+    <FileEntry Name="18451811844_Juq.685.idx" Filter="1" />
+    <FileEntry Name="18451811844_NE8.483.idx" Filter="1" />
+    <FileEntry Name="18451811844_qD0.615.idx" Filter="1" />
+    <FileEntry Name="18451811844_sqt.957.idx" Filter="1" />
+    <FileEntry Name="18451811844_VK9.425.idx" Filter="1" />
+    <FileEntry Name="18451811844_Vtm.87.idx" Filter="1" />
+    <FileEntry Name="18451811844_w8Q.21.idx" Filter="1" />
     <FileEntry Name="246240447440.idx" Filter="1" />
     <FileEntry Name="263407295440.idx" Filter="1" />
+    <FileEntry Name="70976544440.idx" Filter="1" />
     <FileEntry Name="8846027440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -37,10 +52,13 @@
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
     <FileEntry Name="parameters_all.prz" Filter="1" />
     <FileEntry Name="Password.dat" Filter="1" />
+    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="Script123 ( save).prm.bak" Filter="1" />
     <FileEntry Name="Script1234.c.pickle" Filter="1" />
     <FileEntry Name="Script1234.ci" Filter="1" />
+    <FileEntry Name="Script1234.prb" Filter="1" />
+    <FileEntry Name="Script1234.prm.bak" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

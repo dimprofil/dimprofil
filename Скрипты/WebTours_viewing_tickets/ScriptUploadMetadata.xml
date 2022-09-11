@@ -14,9 +14,28 @@
     <FileEntry Name="WebTours_viewing_tickets.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="Userinfo.dat" Filter="2" />
+    <FileEntry Name="arrive.dat" Filter="2" />
+    <FileEntry Name="depart.dat" Filter="2" />
     <FileEntry Name="combined_WebTours_viewing_tickets.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="162869422440.idx" Filter="1" />
     <FileEntry Name="167553831440.idx" Filter="1" />
+    <FileEntry Name="173091708440.idx" Filter="1" />
+    <FileEntry Name="9007090440.idx" Filter="1" />
+    <FileEntry Name="900709044_0Jf.75.idx" Filter="1" />
+    <FileEntry Name="900709044_2TE.61.idx" Filter="1" />
+    <FileEntry Name="900709044_4VT.709.idx" Filter="1" />
+    <FileEntry Name="900709044_bOA.725.idx" Filter="1" />
+    <FileEntry Name="900709044_bvp.679.idx" Filter="1" />
+    <FileEntry Name="900709044_CUQ.273.idx" Filter="1" />
+    <FileEntry Name="900709044_FkT.633.idx" Filter="1" />
+    <FileEntry Name="900709044_itS.975.idx" Filter="1" />
+    <FileEntry Name="900709044_L6T.431.idx" Filter="1" />
+    <FileEntry Name="900709044_los.733.idx" Filter="1" />
+    <FileEntry Name="900709044_r0U.607.idx" Filter="1" />
+    <FileEntry Name="900709044_RAk.407.idx" Filter="1" />
+    <FileEntry Name="900709044_sBV.225.idx" Filter="1" />
+    <FileEntry Name="900709044_Ucu.935.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -29,12 +48,14 @@
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="WebTours_viewing_tickets.c.pickle" Filter="1" />
     <FileEntry Name="WebTours_viewing_tickets.ci" Filter="1" />
+    <FileEntry Name="WebTours_viewing_tickets.prb" Filter="1" />
     <FileEntry Name="WebTours_viewing_tickets.prm.bak" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>
