@@ -1,0 +1,120 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: WebTours",
+                "infFile": "t2.inf",
+                "time": 1663679307020
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1663679307288
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t4.inf",
+                "time": 1663679307540
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t5.inf",
+                "time": 1663679307712
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t6.inf",
+                "time": 1663679307856
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t7.inf",
+                "time": 1663679308064
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t8.inf",
+                "time": 1663679308312
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t9.inf",
+                "time": 1663679308499
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_home_page",
+                "rawStartTime": 1663679306774,
+                "rawEndTime": 1663679307038,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011368751525878907
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1663679307054,
+                "rawEndTime": 1663679307304,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008297920227050782
+            },
+            {
+                "transactionName": "click_flights",
+                "rawStartTime": 1663679307319,
+                "rawEndTime": 1663679307556,
+                "thinkTime": 0.0,
+                "wastedTime": 0.007914543151855469
+            },
+            {
+                "transactionName": "search_flights",
+                "rawStartTime": 1663679307572,
+                "rawEndTime": 1663679307728,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005725860595703125
+            },
+            {
+                "transactionName": "choose_flight",
+                "rawStartTime": 1663679307758,
+                "rawEndTime": 1663679307868,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006064414978027344
+            },
+            {
+                "transactionName": "payment_details",
+                "rawStartTime": 1663679307884,
+                "rawEndTime": 1663679308072,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006110429763793945
+            },
+            {
+                "transactionName": "click_itinerary",
+                "rawStartTime": 1663679308088,
+                "rawEndTime": 1663679308325,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008151054382324219
+            },
+            {
+                "transactionName": "click_sing_off",
+                "rawStartTime": 1663679308340,
+                "rawEndTime": 1663679308514,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006372928619384766
+            },
+            {
+                "transactionName": "UC_01_BuyTicket",
+                "rawStartTime": 1663679306758,
+                "rawEndTime": 1663679308530,
+                "thinkTime": 0.0,
+                "wastedTime": 0.060005903244018558
+            }
+        ]
+    }
+]

@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IE:\Micro Focus\Profile\Documents\VuGen\dimprofil\dimprofil-main\Скрипты\WebTours_login_logout
--IC:\Micro Focus\LoadRunner\include
--ee:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_login_logout\\logfile.log
-e:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_login_logout\\combined_WebTours_login_logout.c
-e:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_login_logout\\pre_cci.c
+-IC:\Users\DIMA\Desktop\xset test\dimprofil\Скрипты\WebTours_login_logout
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_login_logout\\logfile.log
+c:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_login_logout\\combined_WebTours_login_logout.c
+c:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_login_logout\\pre_cci.c

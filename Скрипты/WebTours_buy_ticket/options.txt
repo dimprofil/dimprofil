@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IE:\Micro Focus\Profile\Documents\VuGen\dimprofil\dimprofil-main\Скрипты\WebTours_buy_ticket
--IC:\Micro Focus\LoadRunner\include
--ee:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_buy_ticket\\logfile.log
-e:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_buy_ticket\\combined_WebTours_buy_ticket.c
-e:\micro focus\profile\documents\vugen\dimprofil\dimprofil-main\скрипты\webtours_buy_ticket\\pre_cci.c
+-IC:\Users\DIMA\Desktop\xset test\dimprofil\Скрипты\WebTours_buy_ticket
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_buy_ticket\\logfile.log
+c:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_buy_ticket\\combined_WebTours_buy_ticket.c
+c:\users\dima\desktop\xset test\dimprofil\скрипты\webtours_buy_ticket\\pre_cci.c

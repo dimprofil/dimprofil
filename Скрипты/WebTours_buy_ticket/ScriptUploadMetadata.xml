@@ -19,7 +19,31 @@
     <FileEntry Name="combined_WebTours_buy_ticket.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="17659058440.idx" Filter="1" />
+    <FileEntry Name="1765905844_a00.779.idx" Filter="1" />
+    <FileEntry Name="1765905844_a7D.923.idx" Filter="1" />
+    <FileEntry Name="1765905844_bcS.817.idx" Filter="1" />
+    <FileEntry Name="1765905844_BTg.475.idx" Filter="1" />
+    <FileEntry Name="1765905844_D76.233.idx" Filter="1" />
+    <FileEntry Name="1765905844_ekL.437.idx" Filter="1" />
+    <FileEntry Name="1765905844_N3P.801.idx" Filter="1" />
+    <FileEntry Name="1765905844_p3w.195.idx" Filter="1" />
+    <FileEntry Name="1765905844_qtv.511.idx" Filter="1" />
+    <FileEntry Name="1765905844_UGI.335.idx" Filter="1" />
+    <FileEntry Name="1765905844_v2R.129.idx" Filter="1" />
+    <FileEntry Name="1765905844_xN7.539.idx" Filter="1" />
     <FileEntry Name="178204236440.idx" Filter="1" />
+    <FileEntry Name="17820423644_1gM.234.idx" Filter="1" />
+    <FileEntry Name="17820423644_80P.540.idx" Filter="1" />
+    <FileEntry Name="17820423644_Bmh.818.idx" Filter="1" />
+    <FileEntry Name="17820423644_M7R.336.idx" Filter="1" />
+    <FileEntry Name="17820423644_MBg.924.idx" Filter="1" />
+    <FileEntry Name="17820423644_SqQ.130.idx" Filter="1" />
+    <FileEntry Name="17820423644_uEm.476.idx" Filter="1" />
+    <FileEntry Name="17820423644_UtR.780.idx" Filter="1" />
+    <FileEntry Name="17820423644_X65.438.idx" Filter="1" />
+    <FileEntry Name="17820423644_xG2.196.idx" Filter="1" />
+    <FileEntry Name="17820423644_yze.802.idx" Filter="1" />
+    <FileEntry Name="17820423644_zEU.512.idx" Filter="1" />
     <FileEntry Name="186089863440.idx" Filter="1" />
     <FileEntry Name="18608986344_5Ux.187.idx" Filter="1" />
     <FileEntry Name="18608986344_8ED.731.idx" Filter="1" />
@@ -36,6 +60,18 @@
     <FileEntry Name="259551772440.idx" Filter="1" />
     <FileEntry Name="81625015440.idx" Filter="1" />
     <FileEntry Name="83168496440.idx" Filter="1" />
+    <FileEntry Name="8316849644_3RG.819.idx" Filter="1" />
+    <FileEntry Name="8316849644_73n.131.idx" Filter="1" />
+    <FileEntry Name="8316849644_alm.513.idx" Filter="1" />
+    <FileEntry Name="8316849644_BIc.541.idx" Filter="1" />
+    <FileEntry Name="8316849644_ftl.477.idx" Filter="1" />
+    <FileEntry Name="8316849644_JVO.439.idx" Filter="1" />
+    <FileEntry Name="8316849644_Q4l.803.idx" Filter="1" />
+    <FileEntry Name="8316849644_qGZ.235.idx" Filter="1" />
+    <FileEntry Name="8316849644_rPs.925.idx" Filter="1" />
+    <FileEntry Name="8316849644_sGw.197.idx" Filter="1" />
+    <FileEntry Name="8316849644_vjt.781.idx" Filter="1" />
+    <FileEntry Name="8316849644_Y6G.337.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -48,7 +84,6 @@
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
-    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

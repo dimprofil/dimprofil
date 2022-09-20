@@ -19,7 +19,13 @@
     <FileEntry Name="combined_WebTours_login_logout.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="110580167440.idx" Filter="1" />
+    <FileEntry Name="11058016744_8G7.581.idx" Filter="1" />
+    <FileEntry Name="11058016744_h9I.159.idx" Filter="1" />
+    <FileEntry Name="11058016744_RQ9.31.idx" Filter="1" />
+    <FileEntry Name="11058016744_yxu.249.idx" Filter="1" />
+    <FileEntry Name="136688535440.idx" Filter="1" />
     <FileEntry Name="211809111440.idx" Filter="1" />
+    <FileEntry Name="218602544440.idx" Filter="1" />
     <FileEntry Name="47638756440.idx" Filter="1" />
     <FileEntry Name="70063297440.idx" Filter="1" />
     <FileEntry Name="7006329744_0J8.501.idx" Filter="1" />
@@ -39,7 +45,6 @@
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
-    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

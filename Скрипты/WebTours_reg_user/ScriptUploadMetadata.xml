@@ -18,9 +18,12 @@
     <FileEntry Name="depart.dat" Filter="2" />
     <FileEntry Name="combined_WebTours_reg_user.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="117145397440.idx" Filter="1" />
     <FileEntry Name="118987466440.idx" Filter="1" />
     <FileEntry Name="140442531440.idx" Filter="1" />
+    <FileEntry Name="178562500440.idx" Filter="1" />
     <FileEntry Name="52342749440.idx" Filter="1" />
+    <FileEntry Name="64743017440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -30,9 +33,9 @@
     <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
-    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

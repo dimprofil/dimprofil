@@ -18,6 +18,7 @@
     <FileEntry Name="depart.dat" Filter="2" />
     <FileEntry Name="combined_WebTours_deleting_ticket.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="10826695440.idx" Filter="1" />
     <FileEntry Name="216302112440.idx" Filter="1" />
     <FileEntry Name="21630211244_7l6.167.idx" Filter="1" />
     <FileEntry Name="21630211244_8mB.117.idx" Filter="1" />
@@ -28,7 +29,12 @@
     <FileEntry Name="21630211244_uXz.551.idx" Filter="1" />
     <FileEntry Name="21630211244_vV2.533.idx" Filter="1" />
     <FileEntry Name="268322575440.idx" Filter="1" />
+    <FileEntry Name="26832257544_1Oa.825.idx" Filter="1" />
+    <FileEntry Name="26832257544_gNK.887.idx" Filter="1" />
+    <FileEntry Name="26832257544_jeJ.99.idx" Filter="1" />
+    <FileEntry Name="26832257544_KHG.661.idx" Filter="1" />
     <FileEntry Name="3121390440.idx" Filter="1" />
+    <FileEntry Name="42930166440.idx" Filter="1" />
     <FileEntry Name="50626224440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -42,7 +48,6 @@
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
-    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

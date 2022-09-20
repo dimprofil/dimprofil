@@ -57,7 +57,7 @@ MercIniTreeSons="Action"
 Name="Run"
 RunLogicActionOrder="Action"
 RunLogicActionType="VuserRun"
-RunLogicNumOfIterations="1"
+RunLogicNumOfIterations="10"
 RunLogicObjectKind="Group"
 RunLogicRunMode="Sequential"
 [RunLogicRunRoot:Action]

@@ -19,6 +19,10 @@
     <FileEntry Name="combined_WebTours_ticket_search_without_payment.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="127514664440.idx" Filter="1" />
+    <FileEntry Name="12751466444_8IH.733.idx" Filter="1" />
+    <FileEntry Name="12751466444_BqB.263.idx" Filter="1" />
+    <FileEntry Name="12751466444_flT.507.idx" Filter="1" />
+    <FileEntry Name="12751466444_MjD.317.idx" Filter="1" />
     <FileEntry Name="240342399440.idx" Filter="1" />
     <FileEntry Name="43072277440.idx" Filter="1" />
     <FileEntry Name="4307227744_0JA.647.idx" Filter="1" />
@@ -34,8 +38,16 @@
     <FileEntry Name="4307227744_uuU.859.idx" Filter="1" />
     <FileEntry Name="4307227744_ydV.529.idx" Filter="1" />
     <FileEntry Name="58755759440.idx" Filter="1" />
+    <FileEntry Name="5875575944_CaR.261.idx" Filter="1" />
+    <FileEntry Name="5875575944_IWQ.731.idx" Filter="1" />
+    <FileEntry Name="5875575944_YOG.505.idx" Filter="1" />
+    <FileEntry Name="5875575944_ziE.315.idx" Filter="1" />
     <FileEntry Name="90198196440.idx" Filter="1" />
     <FileEntry Name="94232316440.idx" Filter="1" />
+    <FileEntry Name="9423231644_aNH.316.idx" Filter="1" />
+    <FileEntry Name="9423231644_DVn.506.idx" Filter="1" />
+    <FileEntry Name="9423231644_i0J.262.idx" Filter="1" />
+    <FileEntry Name="9423231644_nwn.732.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -48,7 +60,6 @@
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
-    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

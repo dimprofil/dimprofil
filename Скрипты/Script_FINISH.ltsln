@@ -31,7 +31,7 @@ Project("BFBACAB2-A758-4B0B-9F05-4ECFE61EEE50") = "WebTours_login_logout", "WebT
 		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXERJTUFcRGVza3RvcFx4c2V0IHRlc3RcZGltcHJvZmlsXNCh0LrRgNC40L/RgtGLXFdlYlRvdXJzX2xvZ2luX2xvZ291dFxXZWJUb3Vyc19sb2dpbl9sb2dvdXQudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPldlYlRvdXJzX2xvZ2luX2xvZ291dC51c3I8L0ZpbGU+DQogIDwvRmlsZXM+DQogIDxNb2RpZmllZD4yMDIyLTA5LTExVDIwOjU5OjIxLjkyNjM3OSswMzowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
 	EndProjectSection
 	ProjectSection(ExpandInVugen) = Data
-		Value = False
+		Value = True
 	EndProjectSection
 EndProject
 Project("4283306D-A2AB-4E69-80A6-6CCA297816A1") = "WebTours_ticket_search_without_payment", "WebTours_ticket_search_without_payment\WebTours_ticket_search_without_payment.usr", "4283306D-A2AB-4E69-80A6-6CCA297816A1"

@@ -1,5 +1,5 @@
-# 1 "e:\\micro focus\\profile\\documents\\vugen\\dimprofil\\dimprofil-main\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c"
-# 1 "C:\\Micro Focus\\LoadRunner\\include/lrun.h" 1
+# 1 "c:\\users\\dima\\desktop\\xset test\\dimprofil\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c"
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
 
@@ -26,7 +26,7 @@
 
 
 
-# 103 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 103 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -187,7 +187,7 @@ int lr_generate_uuid_free(lr_uuid_t uuid);
 int lr_generate_uuid_on_buf(lr_uuid_t buf);
 
    
-# 273 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 273 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int lr_start_distributed_transaction  (char * transaction_name, lr_uuid_t correlator, long timeout  );
 
    
@@ -428,11 +428,11 @@ int   lr_msg (char * fmt, ...);
 int   lr_debug_message (unsigned int msg_class,
 									    char * format,
 										...);
-# 513 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 513 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_new_prefix (int type,
                                  char * filename,
                                  int line);
-# 516 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 516 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int   lr_log_message (char * fmt, ...);
 int   lr_message (char * fmt, ...);
 int   lr_error_message (char * fmt, ...);
@@ -446,7 +446,7 @@ int   lr_fail_trans_with_error (char * fmt, ...);
  
  
  
-# 540 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 540 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
  
  
@@ -481,7 +481,7 @@ int   lr_eval_string_ext (const char *in_str,
                                      unsigned long const options,
                                      const char *file,
 								     long const line);
-# 574 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 574 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_eval_string_ext_free (char * * pstr);
 
  
@@ -505,7 +505,7 @@ void   lr_eval_string_ext_free (char * * pstr);
  
 int lr_param_increment (char * dst_name,
                               char * src_name);
-# 597 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 597 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -530,7 +530,7 @@ int	  lr_save_var (char *              param_val,
 							  unsigned long const param_val_len,
 							  unsigned long const options,
 							  char *			  param_name);
-# 621 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 621 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int   lr_save_string (const char * param_val, const char * param_name);
 
 
@@ -554,7 +554,7 @@ int   lr_convert_double_to_double (const char *source_param_name, const char *fo
  
  
  
-# 700 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 700 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_save_datetime (const char *format, int offset, const char *name);
 
 
@@ -616,7 +616,7 @@ char * lr_table_get_cell_by_col_name (char * param_name, int row, const char* co
 int lr_table_get_column_name_by_index (char * param_name, int col, 
 											char * * const col_name,
 											size_t * col_name_len);
-# 761 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 761 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 int lr_table_get_column_name_by_index_free (char * col_name);
 
@@ -624,7 +624,7 @@ int lr_table_get_column_name_by_index_free (char * col_name);
  
  
  
-# 776 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 776 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int   lr_zip (const char* param1, const char* param2);
 int   lr_unzip (const char* param1, const char* param2);
 
@@ -649,12 +649,12 @@ int   lr_param_substit (char * file,
                                    size_t const in_len,
                                    char * * const out_str,
                                    size_t * const out_len);
-# 800 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 800 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_param_substit_free (char * * pstr);
 
 
  
-# 812 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 812 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -663,14 +663,14 @@ void   lr_param_substit_free (char * * pstr);
 char *   lrfnc_eval_string (char * str,
                                       char * file_name,
                                       long const line_num);
-# 820 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 820 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 int   lrfnc_save_string ( const char * param_val,
                                      const char * param_name,
                                      const char * file_name,
                                      long const line_num);
-# 826 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 826 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 int   lrfnc_free_parameter (const char * param_name );
 
@@ -697,7 +697,7 @@ int lr_save_searched_string(char * buffer, long buf_size, unsigned int occurrenc
 char *   lr_string (char * str);
 
  
-# 929 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 929 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 int   lr_save_value (char * param_val,
                                 unsigned long const param_val_len,
@@ -705,7 +705,7 @@ int   lr_save_value (char * param_val,
                                 char * param_name,
                                 char * file_name,
                                 long const line_num);
-# 936 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 936 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
  
@@ -728,7 +728,7 @@ int   lr_printf (char * fmt, ...);
  
 int   lr_set_debug_message (unsigned int msg_class,
                                        unsigned int swtch);
-# 958 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 958 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 unsigned int   lr_get_debug_message (void);
 
 
@@ -758,7 +758,7 @@ int *   lr_localtime (long offset);
 int   lr_send_port (long port);
 
 
-# 1034 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 1034 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -776,10 +776,10 @@ void vuser_declaration (void);
 
 
 
-# 1063 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 1063 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
-# 1075 "C:\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 1075 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -968,9 +968,9 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "e:\\micro focus\\profile\\documents\\vugen\\dimprofil\\dimprofil-main\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
+# 1 "c:\\users\\dima\\desktop\\xset test\\dimprofil\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
 
-# 1 "C:\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
 
 
@@ -978,7 +978,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
  
  
  
-# 100 "C:\\Micro Focus\\LoadRunner\\include/SharedParameter.h"
+# 100 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h"
 
 
 
@@ -1136,7 +1136,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "e:\\micro focus\\profile\\documents\\vugen\\dimprofil\\dimprofil-main\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
+# 2 "c:\\users\\dima\\desktop\\xset test\\dimprofil\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
 
 # 1 "globals.h" 1
 
@@ -1145,7 +1145,7 @@ extern VTCERR2  lrvtc_noop();
  
  
 
-# 1 "C:\\Micro Focus\\LoadRunner\\include/web_api.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/web_api.h" 1
 
 
 
@@ -1153,7 +1153,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 1 "C:\\Micro Focus\\LoadRunner\\include/as_web.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h" 1
 
 
 
@@ -1932,13 +1932,10 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 789 "C:\\Micro Focus\\LoadRunner\\include/as_web.h"
+# 789 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
 
-# 802 "C:\\Micro Focus\\LoadRunner\\include/as_web.h"
-
-
-
+# 802 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
 
 
@@ -1963,7 +1960,10 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 840 "C:\\Micro Focus\\LoadRunner\\include/as_web.h"
+
+
+
+# 840 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
  
  
@@ -2010,7 +2010,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 908 "C:\\Micro Focus\\LoadRunner\\include/as_web.h"
+# 908 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
 
   int
@@ -2105,7 +2105,7 @@ web_stream_set_custom_mpd(
 
 
 
-# 9 "C:\\Micro Focus\\LoadRunner\\include/web_api.h" 2
+# 9 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/web_api.h" 2
 
 
 
@@ -2593,14 +2593,14 @@ void
  
 
 
-# 3 "e:\\micro focus\\profile\\documents\\vugen\\dimprofil\\dimprofil-main\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
+# 3 "c:\\users\\dima\\desktop\\xset test\\dimprofil\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "e:\\micro focus\\profile\\documents\\vugen\\dimprofil\\dimprofil-main\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
+# 4 "c:\\users\\dima\\desktop\\xset test\\dimprofil\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2855,12 +2855,12 @@ Action()
 	lr_end_transaction("UC_03_BuyTicket",2);
 	return 0;
 }
-# 5 "e:\\micro focus\\profile\\documents\\vugen\\dimprofil\\dimprofil-main\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
+# 5 "c:\\users\\dima\\desktop\\xset test\\dimprofil\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "e:\\micro focus\\profile\\documents\\vugen\\dimprofil\\dimprofil-main\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
+# 6 "c:\\users\\dima\\desktop\\xset test\\dimprofil\\\361\352\360\350\357\362\373\\webtours_buy_ticket\\\\combined_WebTours_buy_ticket.c" 2
 
