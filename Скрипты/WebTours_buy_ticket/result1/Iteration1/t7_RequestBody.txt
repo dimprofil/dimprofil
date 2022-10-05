@@ -1,4 +1,4 @@
 "firstName=jojo&lastName=bean&address1=UAR&address2=Multiple&pass1=jojo+bean&creditCard=1111111"
 "111111111&expDate=&oldCCOption=&numPassengers=1&seatType=Coach&seatPref=Window&outboundFlight="
-"050%3B275%3B09%2F20%2F2022&advanceDiscount=0&returnFlight=&JSFormSubmit=off&buyFlights.x=47&bu"
-"yFlights.y=7&.cgifields=saveCC"
+"770%3B0%3B10%2F05%2F2022&advanceDiscount=0&returnFlight=&JSFormSubmit=off&buyFlights.x=47&buyF"
+"lights.y=7&.cgifields=saveCC"

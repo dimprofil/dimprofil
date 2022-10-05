@@ -1,2 +1,2 @@
-"outboundFlight=050%3B275%3B09%2F20%2F2022&numPassengers=1&advanceDiscount=0&seatType=Coach&sea"
+"outboundFlight=070%3B292%3B10%2F05%2F2022&numPassengers=1&advanceDiscount=0&seatType=Coach&sea"
 "tPref=Window&reserveFlights.x=58&reserveFlights.y=9"

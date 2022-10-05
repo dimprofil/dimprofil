@@ -5,13 +5,13 @@
         <Subsections />
         <Entries>
           <Entry key="ElapsedTime">
-            <double>592.3704901</double>
+            <double>3.4947947</double>
           </Entry>
           <Entry key="StartedAt">
-            <dateTime>2022-09-20T15:56:09.9897904+03:00</dateTime>
+            <dateTime>2022-10-05T18:43:24.2064072+03:00</dateTime>
           </Entry>
           <Entry key="EndedAt">
-            <dateTime>2022-09-20T16:06:02.3602805+03:00</dateTime>
+            <dateTime>2022-10-05T18:43:27.7012019+03:00</dateTime>
           </Entry>
           <Entry key="ReplayStatus">
             <LastReplayRunStatus>Passed</LastReplayRunStatus>
@@ -30,7 +30,7 @@
     </Subsections>
     <Entries>
       <Entry key="Iterations">
-        <int>3</int>
+        <int>1</int>
       </Entry>
     </Entries>
   </Section>

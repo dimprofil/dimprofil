@@ -1,4 +1,4 @@
-Virtual User Script started at: 20.09.2022 16:14:50
+Virtual User Script started at: 20.09.2022 16:15:56
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (џэт 05 2021 19:27:22)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
@@ -38,10 +38,10 @@ Action.c(42): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=hom
 Action.c(42): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
 Action.c(42): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
 Action.c(42): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
-Action.c(42): web_url("WebTours") was successful, 10318 body bytes, 2637 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(42): web_url("WebTours") was successful, 10317 body bytes, 2637 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
 Action.c(52): web_set_sockets_option started  	[MsgId: MMSG-26355]
 Action.c(52): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
-Action.c(54): Notify: Transaction "open_home_page" ended with a "Pass" status (Duration: 0.3779 Wasted Time: 0.1049).
+Action.c(54): Notify: Transaction "open_home_page" ended with a "Pass" status (Duration: 0.3610 Wasted Time: 0.0968).
 Action.c(59): Notify: Transaction "Login" started.
 Action.c(61): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
 Action.c(61): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
@@ -55,6 +55,7 @@ Action.c(68): web_add_header("Origin") started  	[MsgId: MMSG-26355]
 Action.c(68): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
 Action.c(71): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
 Action.c(71): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(74): lr_think_time: 20.00 seconds.
 Action.c(76): web_reg_find started  	[MsgId: MMSG-26355]
 Action.c(76): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 Action.c(80): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
@@ -65,13 +66,14 @@ Action.c(80): Found resource "http://localhost:1080/WebTours/images/itinerary.gi
 Action.c(80): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
 Action.c(80): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
 Action.c(80): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
-Action.c(80): web_submit_data("login.pl") was successful, 5779 body bytes, 2037 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(97): Notify: Transaction "Login" ended with a "Pass" status (Duration: 0,2374 Wasted Time: 0,0063).
+Action.c(80): web_submit_data("login.pl") was successful, 5779 body bytes, 2041 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(97): Notify: Transaction "Login" ended with a "Pass" status (Duration: 20.2625 Think Time: 20.0111 Wasted Time: 0.0055).
 Action.c(99): Notify: Transaction "Logout" started.
 Action.c(101): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
 Action.c(101): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
 Action.c(104): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
 Action.c(104): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(107): lr_think_time: 7.00 seconds.
 Action.c(109): web_reg_find started  	[MsgId: MMSG-26355]
 Action.c(109): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 Action.c(113): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
@@ -80,11 +82,171 @@ Action.c(113): Detected non-resource "http://localhost:1080/WebTours/home.html" 
 Action.c(113): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
 Action.c(113): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(113): Registered web_reg_find successful for "Text=Welcome to the Web" (count=1)  	[MsgId: MMSG-26364]
-Action.c(113): web_url("SignOff Button") was successful, 2172 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(123): Notify: Transaction "Logout" ended with a "Pass" status (Duration: 0,1719 Wasted Time: 0,0046).
-Action.c(125): Notify: Transaction "UC_01_login_logout" ended with a "Pass" status (Duration: 0,8518 Wasted Time: 0,1159).
+Action.c(113): web_url("SignOff Button") was successful, 2167 body bytes, 584 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(123): Notify: Transaction "Logout" ended with a "Pass" status (Duration: 7,1875 Think Time: 7,0135 Wasted Time: 0,0031).
+Action.c(125): Notify: Transaction "UC_01_login_logout" ended with a "Pass" status (Duration: 27,8733 Think Time: 27,0246 Wasted Time: 0,1054).
 Ending action Action.
 Ending iteration 1.
+Starting iteration 2.
+Starting action Action.
+Action.c(3): Notify: Transaction "UC_01_login_logout" started.
+Action.c(5): Notify: Transaction "open_home_page" started.
+Action.c(8): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(8): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(11): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(11): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(14): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("DNT") started  	[MsgId: MMSG-26355]
+Action.c(17): web_add_auto_header("DNT") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(20): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(27): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(27): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(38): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(38): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(42): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Action.c(42): Redirecting "http://localhost:1080/WebTours" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(42): To location "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26693]
+Action.c(42): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(42): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(42): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(42): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(42): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(42): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(42): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(42): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
+Action.c(42): web_url("WebTours") was successful, 10310 body bytes, 2637 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(52): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(52): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(54): Notify: Transaction "open_home_page" ended with a "Pass" status (Duration: 0,2710 Wasted Time: 0,0098).
+Action.c(59): Notify: Transaction "Login" started.
+Action.c(61): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(61): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
+Action.c(61): web_remove/revert_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(63): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(63): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(66): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(66): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
+Action.c(66): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(68): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(68): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(71): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(71): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(74): lr_think_time: 20,00 seconds.
+Action.c(76): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(76): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(80): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(80): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(80): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(80): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+Action.c(80): web_submit_data("login.pl") was successful, 5782 body bytes, 2050 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(97): Notify: Transaction "Login" ended with a "Pass" status (Duration: 20,2417 Think Time: 20,0057 Wasted Time: 0,0058).
+Action.c(99): Notify: Transaction "Logout" started.
+Action.c(101): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(101): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(104): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(104): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(107): lr_think_time: 7,00 seconds.
+Action.c(109): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(109): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(113): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+Action.c(113): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(113): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(113): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(113): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(113): Registered web_reg_find successful for "Text=Welcome to the Web" (count=1)  	[MsgId: MMSG-26364]
+Action.c(113): web_url("SignOff Button") was successful, 2172 body bytes, 584 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(123): Notify: Transaction "Logout" ended with a "Pass" status (Duration: 7.1876 Think Time: 7.0147 Wasted Time: 0.0049).
+Action.c(125): Notify: Transaction "UC_01_login_logout" ended with a "Pass" status (Duration: 27.7633 Think Time: 27.0203 Wasted Time: 0.0205).
+Ending action Action.
+Ending iteration 2.
+Starting iteration 3.
+Starting action Action.
+Action.c(3): Notify: Transaction "UC_01_login_logout" started.
+Action.c(5): Notify: Transaction "open_home_page" started.
+Action.c(8): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(8): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(11): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(11): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(14): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("DNT") started  	[MsgId: MMSG-26355]
+Action.c(17): web_add_auto_header("DNT") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(20): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(27): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(27): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(38): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(38): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(42): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Action.c(42): Redirecting "http://localhost:1080/WebTours" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(42): To location "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26693]
+Action.c(42): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(42): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(42): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(42): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(42): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(42): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(42): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(42): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
+Action.c(42): web_url("WebTours") was successful, 10317 body bytes, 2637 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(52): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(52): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(54): Notify: Transaction "open_home_page" ended with a "Pass" status (Duration: 0,2675 Wasted Time: 0,0098).
+Action.c(59): Notify: Transaction "Login" started.
+Action.c(61): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(61): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
+Action.c(61): web_remove/revert_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(63): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(63): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(66): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(66): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
+Action.c(66): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(68): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(68): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(71): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(71): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(74): lr_think_time: 20,00 seconds.
+Action.c(76): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(76): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(80): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(80): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(80): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(80): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(80): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+Action.c(80): web_submit_data("login.pl") was successful, 5782 body bytes, 2050 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(97): Notify: Transaction "Login" ended with a "Pass" status (Duration: 20.2639 Think Time: 20.0078 Wasted Time: 0.0082).
+Action.c(99): Notify: Transaction "Logout" started.
+Action.c(101): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(101): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(104): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(104): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(107): lr_think_time: 7,00 seconds.
+Action.c(109): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(109): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(113): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+Action.c(113): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(113): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(113): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(113): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(113): Registered web_reg_find successful for "Text=Welcome to the Web" (count=1)  	[MsgId: MMSG-26364]
+Action.c(113): web_url("SignOff Button") was successful, 2176 body bytes, 584 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(123): Notify: Transaction "Logout" ended with a "Pass" status (Duration: 7.1748 Think Time: 7.0036 Wasted Time: 0.0062).
+Action.c(125): Notify: Transaction "UC_01_login_logout" ended with a "Pass" status (Duration: 27.8236 Think Time: 27.0114 Wasted Time: 0.0242).
+Ending action Action.
+Ending iteration 3.
 Ending Vuser...
 Starting action vuser_end.
 Ending action vuser_end.

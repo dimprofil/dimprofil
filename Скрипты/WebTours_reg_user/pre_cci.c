@@ -2604,7 +2604,11 @@ vuser_init()
 
 # 1 "Action.c" 1
 Action()
+	
 {
+	lr_start_transaction("UC_06_reg_user");
+
+	
 	lr_start_transaction("open_home_page");
 	
 	web_reg_find("Fail=NotFound",
@@ -2660,11 +2664,11 @@ Action()
 		"Snapshot=t3.inf", 
 		"Mode=HTML", 
 		"ITEMDATA", 
-		"Name=username", "Value={Login}", "ENDITEM", 
-		"Name=password", "Value={Password}", "ENDITEM", 
-		"Name=passwordConfirm", "Value={Password}", "ENDITEM", 
-		"Name=firstName", "Value={firstName}", "ENDITEM", 
-		"Name=lastName", "Value={lastName}", "ENDITEM", 
+		"Name=username", "Value={userRandom}", "ENDITEM", 
+		"Name=password", "Value={passRandom}", "ENDITEM", 
+		"Name=passwordConfirm", "Value={passRandom}", "ENDITEM", 
+		"Name=firstName", "Value={userRandom}", "ENDITEM", 
+		"Name=lastName", "Value={passRandom}", "ENDITEM", 
 		"Name=address1", "Value=123", "ENDITEM", 
 		"Name=address2", "Value=123", "ENDITEM", 
 		"Name=register.x", "Value=43", "ENDITEM", 
@@ -2712,6 +2716,9 @@ Action()
 		"LAST");
 
 	lr_end_transaction("sign_off",2);
+	
+	lr_end_transaction("UC_06_reg_user", 2);
+
 
 	return 0;
 }

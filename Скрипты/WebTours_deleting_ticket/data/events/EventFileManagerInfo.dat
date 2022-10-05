@@ -1,11 +1,32 @@
-EventId=981
-RecordingNumber=1
+EventId=5639
+RecordingNumber=6
 
 ActionInfo
 ActionName=Action
 ActionId=1
 ActionFileSize=967173
-ActionDeleted=0
+ActionDeleted=1
 RecordingNumber=1
+EndActionInfo
+
+ActionName=Action1
+ActionId=2
+ActionFileSize=887881
+ActionDeleted=1
+RecordingNumber=2
+EndActionInfo
+
+ActionName=Action
+ActionId=3
+ActionFileSize=1042298
+ActionDeleted=0
+RecordingNumber=3
+EndActionInfo
+
+ActionName=Action1
+ActionId=4
+ActionFileSize=858546
+ActionDeleted=0
+RecordingNumber=6
 EndActionInfo
 

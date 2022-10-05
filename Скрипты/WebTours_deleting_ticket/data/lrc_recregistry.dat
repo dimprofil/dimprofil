@@ -166,7 +166,7 @@ Registry settings:
 		default	false
 	TestDir
 		(Default)	
-		default	C:\Users\DIMA\Documents\SharpDevelop Projects\WebTours_deleting_ticket\data\
+		default	C:\Users\DIMA\Desktop\xset test\dimprofil\Скрипты\WebTours_deleting_ticket\data\
 	TrapOnClient
 		default	true
 	TrapOnMainThreadOnly

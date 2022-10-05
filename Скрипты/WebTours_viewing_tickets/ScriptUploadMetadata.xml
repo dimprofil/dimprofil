@@ -13,9 +13,7 @@
     <FileEntry Name="default.usp" Filter="4" />
     <FileEntry Name="WebTours_viewing_tickets.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
-    <FileEntry Name="Userinfo.dat" Filter="2" />
-    <FileEntry Name="arrive.dat" Filter="2" />
-    <FileEntry Name="depart.dat" Filter="2" />
+    <FileEntry Name="C:\" Filter="2" />
     <FileEntry Name="combined_WebTours_viewing_tickets.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="162869422440.idx" Filter="1" />
@@ -46,10 +44,12 @@
     <FileEntry Name="900709044_RAk.407.idx" Filter="1" />
     <FileEntry Name="900709044_sBV.225.idx" Filter="1" />
     <FileEntry Name="900709044_Ucu.935.idx" Filter="1" />
+    <FileEntry Name="arrive.dat" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
     <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="depart.dat" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
@@ -61,6 +61,7 @@
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="Userinfo.dat" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="WebTours_viewing_tickets.c.pickle" Filter="1" />
     <FileEntry Name="WebTours_viewing_tickets.ci" Filter="1" />

@@ -2589,8 +2589,18 @@ void
 # 8 "globals.h" 2
 
 
+
+
+
+
+
  
  
+
+
+
+
+
 
 
 # 3 "c:\\users\\dima\\desktop\\xset test\\dimprofil\\\361\352\360\350\357\362\373\\webtours_deleting_ticket\\\\combined_WebTours_deleting_ticket.c" 2
@@ -2605,10 +2615,11 @@ vuser_init()
 # 1 "Action.c" 1
 Action()
 {
-	lr_start_transaction("UC_05_deleting_ticket");
-
+	lr_start_transaction("webtours_delete_ticket");
+	
 	lr_start_transaction("open_home_page");
 
+	
 	web_add_auto_header("Sec-Fetch-Dest", 
 		"document");
 
@@ -2626,8 +2637,8 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
- 
+	
+	 
 	web_reg_save_param_attrib(
 		"ParamName=userSession",
 		"TagName=input",
@@ -2638,7 +2649,7 @@ Action()
 		"IgnoreRedirections=No",
 		"RequestUrl=*/nav.pl*",
 		"LAST");
-		
+	
 	web_reg_find("Fail=NotFound",
 		"Text/IC=Welcome to the Web Tours site",
 		"LAST");
@@ -2654,9 +2665,10 @@ Action()
 		"LAST");
 
 	web_set_sockets_option("SSL_VERSION", "AUTO");
-	
+
 	lr_end_transaction("open_home_page", 2);
 
+	
 	 
 
 	lr_start_transaction("Login");
@@ -2674,55 +2686,51 @@ Action()
 	web_add_auto_header("Sec-Fetch-Site", 
 		"same-origin");
 
-	lr_think_time(24);
+	lr_think_time(20);
 	
-		
-	web_reg_find("Text/IC=User password was correct",
+	web_reg_find("Fail=NotFound",
+		"Text/IC=User password was correct",
 		"LAST");
-
-	web_submit_data("login.pl",
-		"Action=http://localhost:1080/cgi-bin/login.pl",
-		"Method=POST",
-		"TargetFrame=body",
-		"RecContentType=text/html",
-		"Referer=http://localhost:1080/cgi-bin/nav.pl?in=home",
-		"Snapshot=t2.inf",
-		"Mode=HTML",
-		"ITEMDATA",
-		"Name=userSession", "Value={userSession}", "ENDITEM",
-		"Name=username", "Value=jojo", "ENDITEM",
-		"Name=password", "Value=bean", "ENDITEM",
-		"Name=login.x", "Value=68", "ENDITEM",
-		"Name=login.y", "Value=9", "ENDITEM",
-		"Name=JSFormSubmit", "Value=off", "ENDITEM",
+	
+	web_submit_data("login.pl", 
+		"Action=http://localhost:1080/cgi-bin/login.pl", 
+		"Method=POST", 
+		"TargetFrame=body", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?in=home", 
+		"Snapshot=t2.inf", 
+		"Mode=HTML", 
+		"ITEMDATA", 
+		"Name=userSession", "Value={userSession}", "ENDITEM", 
+		"Name=username", "Value={Login}", "ENDITEM",
+		"Name=password", "Value={Password}", "ENDITEM", 
+		"Name=login.x", "Value=47", "ENDITEM", 
+		"Name=login.y", "Value=7", "ENDITEM", 
+		"Name=JSFormSubmit", "Value=off", "ENDITEM", 
 		"LAST");
 
 	lr_end_transaction("Login",2);
+	
+	lr_think_time(23);
 
-	lr_start_transaction("deleting_a_ticket");
+	lr_start_transaction("openitinerary");
 
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(14);
-
- 
+	
+	web_reg_find("Fail=NotFound",
+		"Text/IC=Transaction Summary",
+		"LAST");
+	
 	web_reg_save_param_attrib(
 		"ParamName=flightID",
 		"TagName=input",
 		"Extract=value",
 		"Name=flightID",
 		"Type=hidden",
-		"SEARCH_FILTERS",
-		"IgnoreRedirections=No",
-		"RequestUrl=*/itinerary.pl*",
-		"LAST");
-		
-	web_reg_find("Fail=NotFound",
-		"Text/IC=Transaction Summary",
 		"LAST");
 
 	web_url("Itinerary Button", 
@@ -2731,37 +2739,33 @@ Action()
 		"Resource=0", 
 		"RecContentType=text/html", 
 		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
-		"Snapshot=t3.inf", 
+		"Snapshot=t22.inf", 
 		"Mode=HTML", 
 		"LAST");
+
+	lr_end_transaction("openitinerary",2);
+	
+	lr_think_time(16);
+
+	lr_start_transaction("deleteflight");
+	
+ 
+ 
+ 
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
 
-	lr_think_time(19);
-	
-	web_reg_find("Fail=Found",
-		"Text/IC={flightID}",
+	web_submit_form("itinerary.pl", 
+		"Snapshot=t18.inf", 
+		"ITEMDATA", 
+		"Name=1", "Value=on", "ENDITEM", 
+		"Name=removeFlights.x", "Value=47", "ENDITEM", 
+		"Name=removeFlights.y", "Value=11", "ENDITEM", 
 		"LAST");
 
-	web_submit_data("itinerary.pl",
-		"Action=http://localhost:1080/cgi-bin/itinerary.pl",
-		"Method=POST",
-		"TargetFrame=",
-		"RecContentType=text/html",
-		"Referer=http://localhost:1080/cgi-bin/itinerary.pl",
-		"Snapshot=t4.inf",
-		"Mode=HTML",
-		"ITEMDATA",
-		"Name=1", "Value=on", "ENDITEM",
-		"Name=flightID", "Value={flightID}", "ENDITEM",
-		"Name=removeFlights.x", "Value=56", "ENDITEM",
-		"Name=removeFlights.y", "Value=7", "ENDITEM",
-		"Name=.cgifields", "Value=1", "ENDITEM",
-		"LAST");
+	lr_end_transaction("deleteflight",2);
 
-	lr_end_transaction("deleting_a_ticket",2);
-	
 	lr_start_transaction("Logout");
 
 	web_add_header("Sec-Fetch-User", 
@@ -2788,7 +2792,8 @@ Action()
 
 	lr_end_transaction("Logout",2);
 	
-	lr_end_transaction("UC_05_deleting_ticket",2);
+	lr_end_transaction("webtours_delete_ticket", 2);
+
 
 	return 0;
 }

@@ -1,6 +1,16 @@
 [StartRecordingGMT]
 StartRecordingGMT_1=2022/09/04 15:18:47
 StartRecordingIsDst_1=0
+StartRecordingGMT_2=2022/10/05 13:18:41
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2022/10/05 13:33:50
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2022/10/05 14:06:08
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2022/10/05 14:08:17
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2022/10/05 14:17:10
+StartRecordingIsDst_6=0
 [User-Agent]
 User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
 [Security]

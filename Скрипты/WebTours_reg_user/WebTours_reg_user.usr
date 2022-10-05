@@ -52,13 +52,14 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="open_home_page__*delimiter*__reg_user__*delimiter*__user_data__*delimiter*__reg_finish__*delimiter*__sign_off"
+Order="UC_06_reg_user__*delimiter*__open_home_page__*delimiter*__reg_user__*delimiter*__user_data__*delimiter*__reg_finish__*delimiter*__sign_off"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
+UC_06_reg_user=
 open_home_page=
 reg_user=
 user_data=

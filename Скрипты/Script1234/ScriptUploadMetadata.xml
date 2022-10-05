@@ -13,12 +13,13 @@
     <FileEntry Name="default.usp" Filter="4" />
     <FileEntry Name="Script1234.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
-    <FileEntry Name="Userinfo.dat" Filter="2" />
-    <FileEntry Name="arrive.dat" Filter="2" />
-    <FileEntry Name="depart.dat" Filter="2" />
+    <FileEntry Name="C:\" Filter="2" />
     <FileEntry Name="combined_Script1234.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="128447004440.idx" Filter="1" />
+    <FileEntry Name="139535134440.idx" Filter="1" />
     <FileEntry Name="147832960440.idx" Filter="1" />
+    <FileEntry Name="167374227440.idx" Filter="1" />
     <FileEntry Name="184518118440.idx" Filter="1" />
     <FileEntry Name="18451811844_0JA.647.idx" Filter="1" />
     <FileEntry Name="18451811844_3Ea.789.idx" Filter="1" />
@@ -32,21 +33,27 @@
     <FileEntry Name="18451811844_VK9.425.idx" Filter="1" />
     <FileEntry Name="18451811844_Vtm.87.idx" Filter="1" />
     <FileEntry Name="18451811844_w8Q.21.idx" Filter="1" />
+    <FileEntry Name="217305189440.idx" Filter="1" />
+    <FileEntry Name="232755552440.idx" Filter="1" />
+    <FileEntry Name="242246252440.idx" Filter="1" />
     <FileEntry Name="246240447440.idx" Filter="1" />
     <FileEntry Name="24624044744_au6.830.idx" Filter="1" />
     <FileEntry Name="24624044744_ywf.308.idx" Filter="1" />
     <FileEntry Name="263407295440.idx" Filter="1" />
     <FileEntry Name="26340729544_1s8.307.idx" Filter="1" />
     <FileEntry Name="26340729544_Kzs.829.idx" Filter="1" />
+    <FileEntry Name="70356616440.idx" Filter="1" />
     <FileEntry Name="70976544440.idx" Filter="1" />
     <FileEntry Name="8846027440.idx" Filter="1" />
     <FileEntry Name="884602744_4GO.831.idx" Filter="1" />
     <FileEntry Name="884602744_KX9.309.idx" Filter="1" />
+    <FileEntry Name="arrive.dat" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
     <FileEntry Name="creditCard.dat" Filter="1" />
     <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="depart.dat" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="Login.dat" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
@@ -65,8 +72,11 @@
     <FileEntry Name="Script1234.prb" Filter="1" />
     <FileEntry Name="Script1234.prm.bak" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="seatPref.dat" Filter="1" />
+    <FileEntry Name="seatType.dat" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="Userinfo.dat" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
